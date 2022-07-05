@@ -1,5 +1,3 @@
-# faci-disc
-
 # Discngine Offsite Narbonne
 
 Un dépôt pour regrouper nos idées
