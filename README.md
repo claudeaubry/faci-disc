@@ -10,5 +10,6 @@ Un dépôt pour regrouper nos idées
 Sensibiliser toutes les personnes de Discngine à la facilitation
 
 Mesure :  
-- augmenter le nombre de facilitation 
-- plaisir , enthousiasme, joie
+- augmenter le nombre de facilitation
+- plaisir , enthousiasme, joie, bonheur
+- 
