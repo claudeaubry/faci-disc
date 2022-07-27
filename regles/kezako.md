@@ -15,6 +15,7 @@
 - Le consentement
   - un non est un non
   - un oui peut devenir un non 
+  - sans réponse c'est un non (qui ne dit mot, ne conssent pas)
 
 - Code of Conduct
   - https://sudweb.fr/2018/code-de-conduite/ 
