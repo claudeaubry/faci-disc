@@ -61,8 +61,6 @@ Pour cela, les personnes qui ont le pouvoir dans l'organisation doivent définir
 On pourra s'appuyer sur les 7 niveaux de délégation définis par Jurgen Appelo pour demander à la personne qui a le pouvoir ce qu'il délègue.
 Un tableau de délégation permet de présenter une synthèse des délégations données à l'équipe.
 
-Outils : [delegation poker et delegation board](https://unfix.work/delegation-levels)
-
 Le niveau de délégation a une influence sur le processus de décision.
 
 (avis discngine bienvenus, c'était une demande d'Anne-Sophie)
@@ -93,3 +91,24 @@ Pour l'offsite, on peut réduire en proposant, par exemple, un atelier dans chac
 - la non opposition (qui nécessite de la délibération, comme le consentement)
 - la réduction des opinions (qui nécessite de la délibération et même avant la formulation des options, comme la matrice impact/effort, le planning poker, vision 10/10, les scieries, avocat du diable et plein d'autres)
 - le vote (qui est plus efficace avec de la délibération préalable, notamment avec des variantes du vote majoritaire, comme le vote du consentement systémique)
+
+Cela donne 4 propositions en ajoutant la partie niveaux de délégation.
+On donne les sources de ces ateliers, qui seront adaptés au contexte et mis en situation.
+
+### delegation poker et tableau de délégation
+
+https://unfix.work/delegation-levels
+
+### débat mouvant
+
+https://www.multibao.org/#multibao/contributions/blob/master/contributions/debat_mouvant.md
+
+### consentement systémique
+
+https://www.aubryconseil.com/post/2015/techniques-de-prise-de-d%C3%A9cision-exp%C3%A9riences/
+
+### délibération pour prioriser à l'aide d'une matrice de type impact/effort ou OVNI
+
+Matrice https://gamestorming.com/impact-effort-matrix-2/
+
+OVNI https://agileradical.org/outils/ovni/

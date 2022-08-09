@@ -3,7 +3,6 @@
 Ce dépôt est le support de l'équipe des facilitateurs pour l'Offsite 2022 de Discngine à Narbonne - du 14 au 16 septembre. L'équipe est appelée faci-disc.
 ------
 
-
 ## La vision partagée de l'Offsite
 
 ### La vision d'Eric, le sponsor
@@ -41,6 +40,7 @@ Ce manuel en ligne pourrait être consolidé par l'équipe de facilitation et co
 - Sébastien (coordinateur facilitateurs internes)
 - Stéphane (difficultateur)
 - Violaine (facilitation graphique, anglais)
+- Audrey (théâtre forum, animation)
 - Claude
 
 ### Partie prenante

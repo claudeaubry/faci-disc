@@ -29,4 +29,15 @@ Les services rendus par les actions de facilitation.
 ## Les deux choisis pour la première itération
 
 - Définir les règles du jeu
-- S’accorder, obtenir une vision 
+- S’accorder, obtenir une vision
+
+## Les deux suivants
+
+- Prise de décision
+- Gestion de conflits
+
+Les quatre retenus qui seront présentés à l'offsite :
+- vision
+- règles
+- décision
+- conflits

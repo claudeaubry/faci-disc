@@ -45,8 +45,6 @@ Pour chaque composant de la vision (produit et équipe) nous donnons une liste d
 - Ateliers
 	- Personality map
 	- Scierie des idéaux
-	- Débat mouvant
-		https://www.multibao.org/#multibao/contributions/blob/master/contributions/debat_mouvant.md
 
 
 ### Vision produit
