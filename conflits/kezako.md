@@ -62,7 +62,6 @@ Scénarii :
 Spinoza: la raison est un affect comme un autre. + hypothèse évolutionnaire de l'apparition de la raison
 
 #### Appreciative inquiry
-
 L'idée est de ne pas focaliser sur les problèmes mais plus sur les solutions
 "Quand on tombe dans une fosse à purin, on ne se demande pas pourquoi on est tombé dedans" - Virginia Satir
 
@@ -73,15 +72,15 @@ L'idée est de ne pas focaliser sur les problèmes mais plus sur les solutions
 - Design : Comment la vie pourrait être (capacité de décentrement -- de chacun)
 - Deploy : il n'y a plus qu'à tester ! Mise en place des différentes actions souhaitées et surtout apprentissage de ce qui fonctionne ou non
 
-#### Solution focus
-Cet atelier est inspiré de l'approche de coaching appelé "Solution Focused Brief Therapy" qui se concentre sur les solutions afin d'atteindre un résultat visé plutôt que sur les sproblèmes rencontrés.
+##### Solution focus
+Cet atelier est inspiré de l'approche de coaching appelé "Solution Focused Brief Therapy" qui se concentre sur les solutions afin d'atteindre un résultat visé plutôt que sur les problèmes rencontrés.
 - se concentrer sur les solutions afin d'avancer
 - éviter d'associer un état, une situation, à l'action d'une personne et donc de générer tensions et cristallisation non productives
 - se mettre en mouvement rapidement
 - se concentrer sur le positif
 
 #### Post Mortem
-Analyse de comment un problème/conflit est apparu. Une sorte de rétro orienté échec (séparation avec une personne, arrêt d'un projet)
+Analyse de comment un problème/conflit est apparu. Une sorte de rétro orientée échec (séparation avec une personne, arrêt d'un projet)
 
 #### Le genre et la parole au travail
 Tiré des brave spaces, un format qui propose non pas d’évincer l’inconfort, mais de s’asseoir avec, voire de l’utiliser. Pour mieux le comprendre.
