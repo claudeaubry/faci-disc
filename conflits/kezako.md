@@ -1,8 +1,5 @@
-# La gestion des conflits (de canard)
-
-## Kézako
-
-### Définition
+# Comment la facilitation peut aider dans la gestion des conflits à Discngine ?
+## Définition - qu'est-ce qu'un conflit ?
 
 - agressivité qui ne trouve pas le destin par sublimation (cf. rapport IPDT
 
@@ -10,7 +7,7 @@
 
 - Différend opposant une ou plusieurs personnes.
 
-Types de conflits :
+## Les types de conflits :
 - conflit explicite, déjà déclaré avec intervention type pompier
 - conflit type larvé où il va falloir creuser pour le faire apparaître
 - conflit type fruit, ni trop tôt ni trop tard, trouver le bon moment pour le gérer
