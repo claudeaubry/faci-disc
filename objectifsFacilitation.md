@@ -36,7 +36,7 @@ Les services rendus par les actions de facilitation.
 - Prise de décision
 - Gestion de conflits
 
-Les quatre retenus qui seront présentés à l'offsite :
+Les quatre retenus, qui seront présentés à l'offsite :
 - vision
 - règles
 - décision
