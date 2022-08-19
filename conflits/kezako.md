@@ -83,6 +83,30 @@ Analyse de comment un problème/conflit est apparu. Une sorte de rétro orienté
 Tiré des brave spaces, un format qui propose non pas d’évincer l’inconfort, mais de s’asseoir avec, voire de l’utiliser. Pour mieux le comprendre.
 Brian Arao et Kristi Clemens : From Safe Spaces to Brave Spaces : A New Way to Frame Dialogue around Diversity and Social Justice.
 
+### Théâtre Forum
+- Donner à voir
+- Changer de place / point de vue
+- Partager ses représentation
+- Répondre collectivement
+
+#### Les situations que l'on pourrait traiter avec le TF (non exaustif) dans le cadre du séminaire ? 
+- problème de communication  
+- *rejouer* une situation *inconfortable* 
+- des situations d'oppression, et trouver des solutions pour les personnes opprimées
+
+#### Objectif (à déterminer) : 
+- introduire ce qu'est le TF : préparer une saynète sur une situation fictive pour faire vivre le TF
+- utiliser le TF pour échanger sur une situation (de conflit ?) => à déterminer en avance et à préparer
+- faire monter une saynète aux personnes participantes sur un sujet déterminer ensemble (en lien avec l'entreprise ou pas)
+
+#### Exemples de situations : 
+- des parents se rendent à l'école par des moyens de transports différents et se disputent
+- une réunion où un (des) membres on mal vécu le moment : je ne me sentais pas écouté, je n'arrivais à prendre la parole
+- un personne au travail semble aller mal mais n'exprime pas les raisons, elle n'adresse plus la parole à ses collègues depuis quelques semaines
+- une personne dirigeante qui à un comportement d'oppression sur les personnes avec qui elle travaille
+- une agression au travail / dans les transports en commun / dans la rue
+- ...
+
 
 
 
