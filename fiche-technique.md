@@ -1,16 +1,22 @@
 # Matériels
 
-- contact : Mélanie
+- contact : melanie.hachet@discngine.com - 07 62 10 16 83
+- plan : https://www.avea-patrimoine.fr/wp-content/uploads/2021/01/Nos-salles.pdf
 
 ## Documentation avant offsite
-- envois d'un mail avec les kézakos
+- envois d'un mail avec documentation (kézakos) à l'ensemble des participants
 
-## Sur place
-- Paper board ?
-- salles
+## Les évènements 
 
-## Rando
+### Présentation
+
+### Atelier d'introduction
+- affiches de facilitation graphique
+
+### Rando
 - quizz
 
-## Plage
+### Plage
 
+### Ateliers
+- paper board
