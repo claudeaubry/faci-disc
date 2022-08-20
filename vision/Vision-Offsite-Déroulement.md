@@ -49,7 +49,8 @@ Cette partie se fait en silence. Chaque participant s'efforce de répondre à la
 
 Il écrit chacune de ses réponses sur un post-it.
 
-:note Chacun est invité à se mettre dans la peau du rôle qu'il joue pour donner ses réponses.
+> **Note**
+> Chacun est invité à se mettre dans la peau du rôle qu'il joue pour donner ses réponses.
 
 ### Regroupement par affinités (7')
 Chacun colle ses post-it. Le facilitateur demande aux participants de les regrouper (3 à 7 groupes), et de donner un nom à chaque groupe.
@@ -66,7 +67,8 @@ L'atelier est une variante de la boite du produit (les produits visés ne sont p
 
 Le facilitateur demande au groupe de faire l'affiche informant les utilisateurs que l'application dont ils rêvent est disponible. Il laisse ensuite carte blanche aux participants pour élaborer l'affiche. Pour les orienter, il leur annonce qu'ils auront, après avoir fait l'affiche, à l'utiliser pour vendre l'idée aux autres groupes.
 
-:note Fournir des magazines, des ciseaux et de la colle pour que les participants y trouvent de quoi agrémenter leur affiche.
+> **Note**
+> Fournir des magazines, des ciseaux et de la colle pour que les participants y trouvent de quoi agrémenter leur affiche.
 
 L'affiche est un bon moyen d'avoir des suggestions de logos ou de slogans, en comptant sur les compétences des participants. Le groupe peut donc s'exprimer par des dessins, des couleurs ou des collages pour représenter le produit idéal qu'ils imaginent.
 
@@ -77,14 +79,16 @@ Le facilitateur veillera à ce qu'il y ait aussi du texte, un message simple et 
 Les 2 groupes des facilitateurs se font une présentation mutuelle.
 Chaque groupe présente son affiche et répond aux questions des autres participants.
 
-:note Toutes les affiches (des 8 groupes) sont présentées sur un mur
+> **Note**
+> Toutes les affiches (des 8 groupes) sont présentées sur un mur
 
 
 ##  Mission
 
 Les informations sur les **affiches** sont en général très utiles pour définir la mission
 
-:note Fournir un exemple de mission
+> **Note**
+> Fournir un exemple de mission
 
 
 ### Utilisateurs (3')
@@ -120,7 +124,8 @@ Atelier adapté de Souvenir du futur, un des Innovation Games.
 
 On demande aux participants de se téléporter dans le futur : par exemple un mois après la date cible. Pendant ce mois, ils ont utilisé quotidiennement l'application (ou le service).
 
-:note C'est un atelier qui marche bien si on présente correctement le retour dans le passé, à partir du futur.
+> **Warning**
+> C'est un atelier qui marche bien si on présente correctement le retour dans le passé, à partir du futur.
 
 En remontant dans le mois qui vient de s'écouler, les participants sont invités à donner les impacts qu'a eus l'application sur leur vie, ce qui a changé leur comportement.
 
