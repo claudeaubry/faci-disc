@@ -15,7 +15,8 @@ Les ateliers se déroulent en cinq parties :
 4. indicateurs (30')
 5. consolidation charte (15')
 
-:note : si le sujet est le même pour tous les groupes et qu'il est choisi à l'avance, cette partie peut se faire en plénière.
+> **Note**
+> si le sujet est le même pour tous les groupes et qu'il est choisi à l'avance, cette partie peut se faire en plénière.
 
 ## Matériel
 Chaque groupe dispose d'un espace, une table ou paperboard, post-its, marqueurs.
@@ -46,16 +47,16 @@ Le facilitateur fournit un exemple de vision. Le sponsor expose son idée de pro
 Cette partie se fait en silence. Chaque participant s'efforce de répondre à la question :
 > What does your product do?
 
-Il écrit chacune de ses réponses sur un post-it. 
+Il écrit chacune de ses réponses sur un post-it.
 
 :note Chacun est invité à se mettre dans la peau du rôle qu'il joue pour donner ses réponses.
 
 ### Regroupement par affinités (7')
-Chacun colle ses post-it. Le facilitateur demande aux participants de les regrouper (3 à 7 groupes), et de donner un nom à chaque groupe. 
+Chacun colle ses post-it. Le facilitateur demande aux participants de les regrouper (3 à 7 groupes), et de donner un nom à chaque groupe.
 Les discussions sont encouragées.
 
 ### Draft vision statement (7')
-Les noms des regroupements sont la base pour écrire le premier énoncé de la vision. 
+Les noms des regroupements sont la base pour écrire le premier énoncé de la vision.
 C'est la personne qui joue le rôle de PO qui l'écrit et le place dans la case du canevas prévue pour cela. Tout le monde l'aide ; en cas de désaccord, le sponsor décide.
 
 ### Affiche du produit (24')
@@ -74,7 +75,7 @@ Le facilitateur veillera à ce qu'il y ait aussi du texte, un message simple et 
 #### Deuxième partie : présentation (4')
 
 Les 2 groupes des facilitateurs se font une présentation mutuelle.
-Chaque groupe présente son affiche et répond aux questions des autres participants. 
+Chaque groupe présente son affiche et répond aux questions des autres participants.
 
 :note Toutes les affiches (des 8 groupes) sont présentées sur un mur
 
@@ -111,7 +112,7 @@ Ajouter les résultats des 2 autres zones.
 
 Placer le texte ainsi élaboré dans la case dédiée à la mission du canevas.
 
-## Indicateurs 
+## Indicateurs
 
 ### Souvenir des impacts (18')
 
@@ -121,7 +122,7 @@ On demande aux participants de se téléporter dans le futur : par exemple un mo
 
 :note C'est un atelier qui marche bien si on présente correctement le retour dans le passé, à partir du futur.
 
-En remontant dans le mois qui vient de s'écouler, les participants sont invités à donner les impacts qu'a eus l'application sur leur vie, ce qui a changé leur comportement. 
+En remontant dans le mois qui vient de s'écouler, les participants sont invités à donner les impacts qu'a eus l'application sur leur vie, ce qui a changé leur comportement.
 
 Un impact devrait pouvoir être mesuré, les facilitateurs insistent pour obtenir des données quantitatives.
 
@@ -142,5 +143,3 @@ Des participants peuvent aller voir ce qu'ont fait les autres groupes.
 
 On finit par un débrief en plénière (15').
 Questions/réponses.
-
-
