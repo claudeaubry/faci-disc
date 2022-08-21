@@ -32,7 +32,8 @@ Un binôme de facilitateurs s'occupe de deux groupes.
 Dans chaque groupe de 8, une personne joue le rôle de sponsor. C'est elle qui énonce sa vision préliminaire du sujet.
 Les autres participants jouent des rôles parmi les suivants : utilisateur, développeur, Product Owner, parties prenantes.
 
-:note Si le sujet est choisi à l'avance, les rôles sont définis et instanciés. Ils peuvent être affectés plus vite, voire à l'avance.
+> **Note**
+> Si le sujet est choisi à l'avance, les rôles sont définis et instanciés. Ils peuvent être affectés plus vite, voire à l'avance.
 
 ### Agenda
 Un facilitateur présente l'agenda avec les différentes parties à passer sur le sujet :
