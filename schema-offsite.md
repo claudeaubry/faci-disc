@@ -27,6 +27,7 @@
 |repas     |             |             |             |
 |1400      | débats 32   | scierie 16  | consent. 16 |
 |1700      | chaises 32  | consent. 16 | scierie 16  |
+|1730      | feedback 64 |   
 
 ## Jour 2
 
