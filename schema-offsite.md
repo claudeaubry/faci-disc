@@ -4,10 +4,9 @@
 - ça s'arrête à 17h30
 - et on s'arrête entre 12h30 à 14h00
 
-- une solution pour faire les équipes
-
+## Questions en cours
+- manque une solution pour faire les équipes
 - comment on présente les thèmes ?
-- le matin 
 
 ## Plénière
 - on se présente - icebreaker
