@@ -3,6 +3,12 @@
 - contact : melanie.hachet@discngine.com - 07 62 10 16 83
 - plan : https://www.avea-patrimoine.fr/wp-content/uploads/2021/01/Nos-salles.pdf
 
+## Sur place
+- video-projecteur
+- paper-boards
+- mur post-it
+- board de planning
+
 ## Documentation avant offsite
 - envois d'un mail avec documentation (kézakos) à l'ensemble des participants
 
