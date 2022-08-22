@@ -13,7 +13,7 @@
 ### Atelier d'introduction
 - affiches de facilitation graphique
 - paper boards
-- marqueurs
+- marqueurs - noir + 3 couleurs + gris clair
 
 ### Rando
 - quizz
