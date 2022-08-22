@@ -12,6 +12,8 @@
 
 ### Atelier d'introduction
 - affiches de facilitation graphique
+- paper boards
+- marqueurs
 
 ### Rando
 - quizz
