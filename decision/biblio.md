@@ -6,3 +6,5 @@
 - wikipedia https://fr.wikipedia.org/wiki/Prise_de_d%C3%A9cision
 - Advice process https://advice-process.playbook.ee/introduction/what-is-the-advice-process
 - Décider Core protocols https://bloculus.com/core-protocols-5-decider/
+- How we make decentralized decisions (in a self organized company) https://medium.com/the-caring-network-company/how-we-make-decentralized-decisions-ad869417b772
+-

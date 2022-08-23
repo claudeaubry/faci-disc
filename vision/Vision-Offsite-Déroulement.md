@@ -15,9 +15,6 @@ Les ateliers se déroulent en cinq parties :
 4. indicateurs (30')
 5. consolidation charte (15')
 
-> **Note**
-> si le sujet est le même pour tous les groupes et qu'il est choisi à l'avance, cette partie peut se faire en plénière.
-
 ## Matériel
 Chaque groupe dispose d'un espace, une table ou paperboard, post-its, marqueurs.
 On leur fournit une charte qui sera consolidée tout au long des ateliers, consolidée à la fin et qui constituera le résultat du groupe.
@@ -26,6 +23,9 @@ On leur fournit une charte qui sera consolidée tout au long des ateliers, conso
 Un binôme de facilitateurs s'occupe de deux groupes.
 
 ## Sujet
+
+> **Note**
+> si le sujet est le même pour tous les groupes et qu'il est choisi à l'avance, cette partie peut se faire en plénière.
 
 ### Rôles des participants
 
@@ -42,7 +42,9 @@ Un facilitateur présente l'agenda avec les différentes parties à passer sur l
 - indicateurs (30')
 
 ## Vision
-Le facilitateur fournit un exemple de vision. Le sponsor expose son idée de produit.
+Le facilitateur fournit un exemple de vision[^ex]. Le sponsor expose son idée de produit.
+
+[^ex]: un exemple préparé à l'avance qui sera inclus dans le kezako, par exemple
 
 ### Réflexion individuelle (7')
 Cette partie se fait en silence. Chaque participant s'efforce de répondre à la question :
@@ -98,11 +100,11 @@ Les participants se mettent par deux. Ils identifient les utilisateurs.
 
 ### Valeur pour les utilisateurs (7')
 
-Pour chaque type d'utilisateur, le binôme identifie la valeur que lui apporte le produit
+Pour chaque type d'utilisateur, le binôme identifie la valeur (d'usage) que lui apporte le produit
 
 ### Autres valeurs (5')
 
-Valeur écologique, valeur sociale, revenus pour l'entreprise
+Valeur écologique, valeur sociale, revenus pour l'entreprise…
 
 ### Qualités du produit (5')
 
@@ -134,7 +136,8 @@ Un impact devrait pouvoir être mesuré, les facilitateurs insistent pour obteni
 
 ### Impacts et résultats clés (12')
 
-Les résultats de l'atelier sont regroupés en 3 à 5 impacts.
+Les résultats de l'atelier sont regroupés en 3 à 5 impacts. Par exemple un ou deux sur l'aspect économique, un pour le social, un écologique plus un sur la maintenance si l'équipe est aussi en charge d'une version à maintenir.
+
 Pour chacun, on associe une date et un ou plusieurs résultats clés.
 
 Ils sont placés sur le canevas.
