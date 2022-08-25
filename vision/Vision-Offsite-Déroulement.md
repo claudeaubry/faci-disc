@@ -2,14 +2,14 @@
 
 L'atelier Vision inclut 3 grandes parties :
 1. vision kézako : définition, principes, composants (15')
-2. ateliers : exercices pratiques sur la vision (2h30)
+2. ateliers : exercices pratiques sur la vision ( environ 2h)
 3. débrief, questions réponses (15')
 
-Ces parties forment un tout d'environ 3h, incluant une pause d'un quart d'heure au milieu de la partie pratique.
+Ces parties forment un tout de moins de 3h, incluant une pause d'un quart d'heure au milieu de la partie pratique.
 Les parties 1 et 3 peuvent se faire en plénière ou demi-plénière. Les ateliers de la partie 2 sont adaptés à des groupes de 8.
 
 Les ateliers se déroulent en cinq parties :
-1. le sujet choisi (15')
+1. le sujet choisi (5')
 2. vision (45')
 3. mission (30')
 4. indicateurs (30')
@@ -36,7 +36,7 @@ Les autres participants jouent des rôles parmi les suivants : utilisateur, dév
 > Si le sujet est choisi à l'avance, les rôles sont définis et instanciés. Ils peuvent être affectés plus vite, voire à l'avance.
 
 ### Agenda
-Un facilitateur présente l'agenda avec les différentes parties à passer sur le sujet :
+Un facilitateur présente l'agenda avec les différentes parties à passer sur le sujet et le but à atteindre :
 - vision (45')
 - mission (30')
 - indicateurs (30')
@@ -79,7 +79,7 @@ Le facilitateur veillera à ce qu'il y ait aussi du texte, un message simple et 
 
 #### Deuxième partie : présentation (4')
 
-Les 2 groupes des facilitateurs se font une présentation mutuelle.
+Les 2 groupes des 2 facilitateurs se font une présentation mutuelle.
 Chaque groupe présente son affiche et répond aux questions des autres participants.
 
 > **Note**
@@ -115,6 +115,7 @@ Les qualités et caractéristiques déduites de la solution envisagée.
 Les post-it des binômes sont placés dans les 4 zones (utilisateurs, valeur d'usage, autres valeurs, qualités).
 Le groupe effectue le regroupement par affinités dans chacune des zones.
 À partir des utilisateurs et de la valeur qu'on leur apporte, formuler une première version de la mission avec des verbes d'action.
+
 Ajouter les résultats des 2 autres zones.
 
 Placer le texte ainsi élaboré dans la case dédiée à la mission du canevas.
@@ -123,7 +124,7 @@ Placer le texte ainsi élaboré dans la case dédiée à la mission du canevas.
 
 ### Souvenir des impacts (18')
 
-Atelier adapté de Souvenir du futur, un des Innovation Games.
+Atelier adapté de **Souvenir du futur**, un des _Innovation Games_.
 
 On demande aux participants de se téléporter dans le futur : par exemple un mois après la date cible. Pendant ce mois, ils ont utilisé quotidiennement l'application (ou le service).
 
