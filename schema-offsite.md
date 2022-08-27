@@ -28,8 +28,8 @@
 |1115-1215      | suite       | Forum gh    | OSBD ef     |
 |1215-1230      | débrief 64  |             |             |
 |repas          |             |             |             |
-|1400-1515      | débats efgh | scierie ab  | consent. cd |
-|1530-1645      | chaises efgh| consent. ab | scierie cd  |
+|1400-1515      |décision efgh|             | chaises abcd|
+|1530-1645      | suite       |             | scierie abcd|
 |1645-1730      |  débrief 64 |             |             |
 
 
@@ -42,7 +42,7 @@
 |1115-1215      | suite       | Forum cd    | OSBD ab     |
 |1215-1230      | débrief 64  |             |             |
 |repas          |             |             |             |
-|1400-1515      | débats abcd | scierie ef  | consent. gh |
-|1530-1645      | chaises abcd| consent. gh | scierie ef  |
+|1400-1515      |décision abcd|             | scierie efgh|
+|1530-1645      | suite       |             | chaises efgh|
 |1645-1715      |  débrief 64 |             |             |
 |1715-1730      | conclusion  |             |             |
