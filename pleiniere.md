@@ -12,8 +12,9 @@ Durée : 45 minutes
 - regroupement par équipe et présentation du planning (5')
 
 ## Les équipes
+Répartir les 64 participants en équipe de 8 personnes. Ces équipes assisteront aux ateliers parfois seules, parfois regroupées à 16 ou à 32
 - déterminée à l'avance par Discngine ? 
     - équipe de 8, homogène (avec des personnes ayant des bases en agilité, ceux qui découvrent, des "anciens", des "nouveaux", maîtrise de l'anglais...)
     - comment répartit-on les anglophones : 
-            - une seule équipe de 8/10 ? 
-            - dans deux équipes (une accompagnée par Sébastien et l'autre par Violaine)
+        - une seule équipe de 8/10 ? 
+        - dans deux équipes (une accompagnée par Sébastien et l'autre par Violaine)
