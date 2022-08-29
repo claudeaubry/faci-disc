@@ -1,4 +1,4 @@
-# La Pleinière
+# La Plénière
 
 ## Quand ?
 Mercredi matin à 9h<br> 
