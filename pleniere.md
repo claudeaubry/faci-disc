@@ -22,6 +22,6 @@ En deux temps :
 La répartition des équipes de 15 personnes sera faite en amont par Discngine. Ces équipes assisteront aux ateliers parfois seules, parfois regroupées à 32, parfois scindées en deux
 
 - équipe de 15, autant que possible homogène, avec le même niveau de connaissances (en agilité et en facilitation)
-- les anglophones (plutôt novices en facilitation) seront regroupés dans une équipe avec des personnes frnacophones à l'aise en anglais.
+- les anglophones (plutôt novices en facilitation) seront regroupés dans une équipe avec des personnes francophones à l'aise en anglais.
 
-*N.B. Les animateurs à l'aise en anglais : Anne-Sophie, Sébastien, Aurélien, Violaine (Audrey réfléchit)
+*N.B. Les animateurs à l'aise en anglais : Anne-Sophie, Sébastien, Aurélien, Violaine (Audrey réfléchit)*
