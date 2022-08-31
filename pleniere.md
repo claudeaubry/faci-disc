@@ -1,22 +1,27 @@
 # La Plénière
 
 ## Quand ?
-Mercredi matin à 9h<br> 
-Durée : 45 minutes
+En deux temps :
+- Mardi soir avant le dîner (30')
+- Mercredi matin à 9h (45')
 
 ## Programme
+
+**Mardi soir**
 - Welcome et introduction de l'Offsite par Éric ou Sébastien (5')
-- Présentation de l'équipe des facilitateurs (5')
+- Présentation de l'équipe des facilitateurs (10')
+- présentation des thèmes et du planning (5')
+- repartition des équipes (5')
+
+**Mercredi matin**
 - Icebreaker (20')
-- Accordage sur la définition de la facilitation + distribution de fiches (définition + mini guide d'intro à la facilitation graphique) + questions (10')
-- présentation des thèmes et du planning (3')
-- regroupement par équipe (2')
+- Accordage sur la définition de la facilitation + distribution de fiches (définition + mini guide d'intro à la facilitation graphique) + questions (25')
+
 
 ## Les équipes
-Répartir les 64 participants en équipe de 8 personnes. Ces équipes assisteront aux ateliers parfois seules, parfois regroupées à 16 ou à 32
-- déterminées à l'avance par Discngine ? 
-    - équipe de 8, homogène (avec des personnes ayant des bases en agilité, ceux qui découvrent, des "anciens", des "nouveaux", maîtrise de l'anglais...)
-    - comment répartit-on les anglophones : 
-        - une seule équipe de 8/10 ? 
-        - dans deux équipes (une accompagnée par Sébastien et l'autre par Violaine)
-        - répartis dans toutes les équipes
+La répartition des équipes de 15 personnes sera faite en amont par Discngine. Ces équipes assisteront aux ateliers parfois seules, parfois regroupées à 32, parfois scindées en deux
+
+- équipe de 15, autant que possible homogène, avec le même niveau de connaissances (en agilité et en facilitation)
+- les anglophones seront regroupés dans une équipe avec des personnes frnacophones à l'aise en anglais.
+
+*N.B. Les animateurs à l'aise en anglais : Anne-Sophie, Sébastien, Aurélien, Violaine (Audrey réfléchit)
