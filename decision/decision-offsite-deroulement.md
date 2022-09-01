@@ -26,6 +26,8 @@ On donne une liste de décisions à prendre, par exemple :
 - l'organisation d'un offsite d'équipe ?
 - les jours de congés ?
 - l'embauche d'un nouveau coéquipier ?
+- devons créer le produit TARTAMPION auquel on pense ?
+- doit-on abandonner la techno AAA dans le cadre de PLOUF ?
 
 > **Note**
 > À adapter au contexte Discngine. Si possible n'en garder que 3 ou 4.
