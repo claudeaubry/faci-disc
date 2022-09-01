@@ -7,19 +7,15 @@
 
 ## Pourquoi ?
 
-**Objectif pédagogique :**
+Les règles peuvent venir entraver l'objectif global. Il arrive de préfèrer respecter les règles sans réaliser que l'on passe  peut-être à côté d'un objectif Méta.
 
+On finit par oublier pourquoi la règle était là à la base, cela crée des silos, coupe l'empathie. 
 
-Les règles qui viennent entraver l'objectif global. On préfère respecter les règles et peut-être passer à côté d'un objectif Méta.
-À quel moment on se met à plus respecter les règles
-Créent des silos, coupe l'empathie, 
-oublie du pourquoi la règle était là à la base
-
-Les règles s'inscrivent toujours dans le pourquoi, si on ne reste que sur la règle on perd le contexte de pourquoi elle a été mise en place et plus personne ne sait pourquoi.
+Les règles s'inscrivent toujours dans le pourquoi. Si on ne reste que sur la règle, on perd le contexte du pourquoi elle a été mise en place et plus personne ne sait vraiment pourquoi.
 
 Ref : 
-- Fable des singes et des bananes
-- dans un contexte complexe et changeant, les règles (les bonnes pratiques n'existent pas) ne sont pas toujours adaptées
+- [Théorème du singe](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_du_singe)
+- Dans un contexte complexe et changeant, les règles ne sont pas toujours adaptées
 
 ## Matériel
 
