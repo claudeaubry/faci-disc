@@ -28,6 +28,7 @@ On donne une liste de décisions à prendre, par exemple :
 - l'embauche d'un nouveau coéquipier ?
 - devons créer le produit TARTAMPION auquel on pense ?
 - doit-on abandonner la techno AAA dans le cadre de PLOUF ?
+- quelle est l'objectif du prochain sprint ?
 
 > **Note**
 > À adapter au contexte Discngine. Si possible n'en garder que 3 ou 4.
