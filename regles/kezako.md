@@ -1,9 +1,7 @@
-# Les règles
+# Comment la facilitation peut aider dans la mise en place et la gestion des règles à Discngine ?
+## À quoi servent les règles
 
-- vivre ensemble, covivance
-- sécurité émotionnelle
-- permet de retirer les protèges dents et protèges tibias
-
+Les règles aident à la covivance, le vivre ensemble. Elles assurent une certaine sécurité émotionnelle et permettent de retirer les protèges dents et protèges tibias.
 ### exemples de règles
 
 - la "loi de deux pieds"
@@ -20,6 +18,29 @@
 - Code of Conduct
   - https://sudweb.fr/2018/code-de-conduite/ 
 
+## Liens avec les autres thèmes
+
+Certaines règles peuvent être mises en place suite à de décisions collectives. 
+
+Si une règle est imposée ou si elle est mal comprise, elle peut devenir une source de conflit.
+
+Les valeurs, considérées comme des règles, peuvent faciliter une équipe à touver une vision commune. À l'inverse, une règle peut également empêcher la vision d'évoluer. 
+
+## Les différents niveaux de règles
+
+### Les valeurs
+En tant qu'organisation ou équipe, il est important de trouver des valeurs communes et d'identifier la différence entre valeurs, principes et pratiques. Il est également important de comprendre comment certains contextes peuvent renforcer ou affaiblir les avleurs. 
+La facilitation intervient en proposant des outils permettant de s'accorder sur les valeurs 
+### Les règles d'organisation
+- comment s'accorder avec les valeurs au quotidien
+- comment accueillir de nouvelles personnes
+### Les règles d'équipe
+- comment prendre des décisions ensemble tout en préservant l'enthousiasme
+- comment s'organiser pour travailler collectivement
+### Les règles produit
+Pour qu'une équipe puisse avancer dans la même direction, elle doit, au départ, s'accorder sur le produit et sur la notion de fini. La corédaction d'un DoD (definition of Done) en démarrage de projet permet aux membres de s'aligner.
+### Les règles des parties prenantes
+Il existe parfois un "choc des cultures" entre une équipe auto-gérée et les parties prenantes. Pour le bon déroulement de tout projet, il est donc primordial de trouver comment résoudre ce choc et comment trouver l'accordage nécessaire.  
 ## Les ateliers
 
 - moving motivators
