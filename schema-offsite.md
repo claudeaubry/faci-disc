@@ -4,22 +4,30 @@
 - ça s'arrête à 17h30
 - et on s'arrête entre 12h30 à 14h00
 
-## Questions en cours
-- manque une solution pour faire les équipes
-- comment on présente les thèmes ?
 
 ## Plénière
-- on se présente - icebreaker
 
-### Accordage en commun
+### Au début
+- on se présente - icebreaker
 - s'accorder sur la facilitation
 
-## Conclusion
-- mot de Sébastien ou Éric : suite au sein de Discngine
+### À la fin de chaque demi-journée
 
-## Jour 1
+Pour débriefer la demi-journée, répondre aux questions ouvertes et recentrer sur la facilitation
+
+- un quart d'heure en fin de chaque matinée
+- 3/4h le mercredi soir
+- une demi-heure le jeudi soir
+
+### À la fin de l'offsite
+- conclusion de Sébastien ou Éric : la suite au sein de Discngine
+
+## Organisation des sessions
+
+### Mercredi
 
 8 groupes de 8, nommés abcdefgh
+64 pour plénière
 
 | horaires      | Lieu 1      | Lieu 2      | Lieu 3      |
 |---------------|-------------|-------------|-------------|
@@ -33,7 +41,7 @@
 |1645-1730      |  débrief 64 |             |             |
 
 
-## Jour 2
+### Jeudi
 
 | horaires      | Lieu 1      | Lieu 2      | Lieu 3      |
 |---------------|-------------|-------------|-------------|
