@@ -9,6 +9,21 @@
 - mur post-it
 - board de planning
 
+- Tableaux blancs + feutres ?
+
+## À prévoir
+- post-it - 64 paquets
+- une soixante de feutres type Sharpie, un mix de couleurs
+- 8 gros marqueurs bizeautés noirs
+- 8 paperboards + recharges
+- 4 rouleaux de scotch de peintre
+- 3 paquets de patafix
+
+## Impression de fiches
+- Quelle date limite pour l'envoi ?
+- Quel format max à prévoir ?
+- possibilité de faire des impressions couleur ? 
+
 ## Documentation avant offsite
 - envois d'un mail avec documentation (kézakos) à l'ensemble des participants
 
@@ -19,7 +34,7 @@
 ### Atelier d'introduction
 - affiches de facilitation graphique
 - paper boards
-- marqueurs - noir + 3 couleurs + gris clair
+
 
 ### Rando
 - quizz
