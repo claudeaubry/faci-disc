@@ -5,7 +5,7 @@ Le thème Décision inclut 6 parties :
 2. débat dynamique qui favorise la participation : débat mouvant (45')
 3. processus de décision collective structurée : décision par consentement (30')
 4. vote avec choix multiples par consentement systémique (25')
-5. décider des priorités (25')
+5. advice process (25')
 6. décider qui décide et comment décider (25')
 
 Les parties 2 à 3 sont axées sur la délibération (1h15).
@@ -19,7 +19,7 @@ Les parties 4 à 6 sont regroupées (1h15).
 
 Le kézako inclut également un petit atelier de 5'.
 
-On donne une liste de décisions à prendre, par exemple : 
+On donne une liste de décisions à prendre, par exemple :
 - à quelle heure faire nos daily meetings ?
 - fait-on les revues en présentiel ou à distance ?
 - la réponse à un appel d'offres client ?
@@ -28,7 +28,7 @@ On donne une liste de décisions à prendre, par exemple :
 - l'embauche d'un nouveau coéquipier ?
 - devons créer le produit TARTAMPION auquel on pense ?
 - doit-on abandonner la techno AAA dans le cadre de PLOUF ?
-- quelle est l'objectif du prochain sprint ?
+- quel est l'objectif du prochain sprint ?
 
 > **Note**
 > À adapter au contexte Discngine. Si possible n'en garder que 3 ou 4.
@@ -56,7 +56,7 @@ Voici le déroulement (copié du site http://ebook.coop-tic.eu/francais/wakka.ph
 > **Warning**
 > La durée est limités à 45' pour l'offsite
 
-Cet atelier reçoit les 32 participants en un seul groupe. 
+Cet atelier reçoit les 32 participants en un seul groupe.
 Des exemples de sujets à décision :
 - Pour améliorer les mobilités douces autour de l'école où vont vos enfants, la solution envisagée est d'interdire les voitures (d'en faire une vélorue). Êtes-vous d'accord ?
 - Pour protéger les oiseaux, tous les chats arrivant en refuge et proposés à l'adoption seront stérilisés.
@@ -76,7 +76,7 @@ Atelier par groupes de 8.
 
 Un facilitateur par groupe qui déroule les étapes du processus (https://www.multibao.org/#multibao/contributions/blob/master/contributions/decision_par_consentement.md)
 
-Exemples de proposition : 
+Exemples de proposition :
 - pour le restaurant ce soir, on vous propose La Boucherie
 - demain matin à 8h, on vous propose une marche dans le massif de la Clape
 
@@ -99,22 +99,30 @@ Après présentation des options possibles pour une décision, chacun va exprime
 
 On peut ajouter dans les options : ne rien faire.
 
-Exemples de proposition : 
+Exemples de proposition :
 - le choix du restaurant avec plusieurs propositions (chinois, libanais, boucherie, végane)
 
-## Décider des priorités
+## Advice process
 
-Atelier de 25' qui utilise une matrice pour faciliter la discussion sur une liste à prioriser.
+Atelier de 25' qui simule la sollicitation d'avis pour prendre une décision.
 
-Inspiré de https://gamestorming.com/impact-effort-matrix-2/
+Sujets possibles :
+- la règle pour les frais de déplacement des participants à l'offsite 2023, en minimisant l'impact carbone
+- l'abandon de la techno AAA
+
+Étapes :
+
+- chacun élabore sa proposition ( 5')
+- on se groupe par 2 ou 3 pour la consultation et on tourne (15')
+- intégrer les conseils fournis dans la proposition initiale et éventuellement comparer les  propositions (5')
 
 ## Décider qui décide et comment décider
 
-L'objectif est de définir qui décide et comment le faire. 
+L'objectif est de définir qui décide et comment le faire.
 
 On fournit 4-5 exemples de décision et on demande aux participants de réfléchir au processus de décision qu'ils pensent adapté (ils auront été présentés dans le kézako, pour certains expérimentés et rappelés ici).
 
-Exemples : 
+Exemples :
 
 - achat d'un livre sur l'agilité par un membre de l'équipe
 - une personne de l'équipe souhaite repousser le meeting du matin de 9h à 10h
@@ -123,5 +131,3 @@ Exemples :
 On demande d'abord une réflexion individuelle aux participants, avant de partager avec les autres.
 
 Les questions ouvertes seront traitées dans la plénière qui suit.
-
-
