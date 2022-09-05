@@ -26,18 +26,18 @@ Pour débriefer la demi-journée, répondre aux questions ouvertes et recentrer 
 
 ### Mercredi
 
-8 groupes de 8, nommés abcdefgh
+8 groupes de 8, nommés abcdefgh (gh est un groupe en anglais)
 64 pour plénière
 
 | horaires      | Lieu 1      | Lieu 2      | Lieu 3      |
 |---------------|-------------|-------------|-------------|
 |0900-0945      | accordage 64|             |             |
-|0945-1100      | VISION abcd | OSBD ef     | Forum gh    |
-|1115-1215      | suite       | Forum gh    | OSBD ef     |
+|0945-1100      | VISION abcd (Fouzia; Seb) | OSBD ef (Fabrice)    | Forum gh (AnneSo)   |
+|1115-1215      | suite (Fouzia; Seb)      | Forum gh (Fabrice)   | OSBD ef (AnneSo)    |
 |1215-1230      | débrief 64  |             |             |
 |repas          |             |             |             |
-|1400-1515      |décision efgh|             | chaises abcd|
-|1530-1645      | suite       |             | scierie abcd|
+|1400-1515      |décision efgh (Aurélien; AnneSo)|             | chaises abcd (Seb; Fouzia)|
+|1530-1645      | suite  (Aurélien; AnneSo)      |             | scierie abcd (Seb; Fouzia)|
 |1645-1730      |  débrief 64 |             |             |
 
 
@@ -46,11 +46,11 @@ Pour débriefer la demi-journée, répondre aux questions ouvertes et recentrer 
 | horaires      | Lieu 1      | Lieu 2      | Lieu 3      |
 |---------------|-------------|-------------|-------------|
 |0900-0945      | rando       |             |             |
-|0945-1100      | VISION efgh | OSBD ab     | Forum cd    |
-|1115-1215      | suite       | Forum cd    | OSBD ab     |
+|0945-1100      | VISION efgh (Aurélien) | OSBD ab (Fouzia)    | Forum cd    |
+|1115-1215      | suite (Aurélien)      | Forum cd    | OSBD ab     |
 |1215-1230      | débrief 64  |             |             |
 |repas          |             |             |             |
 |1400-1515      |décision abcd|             | scierie efgh|
-|1530-1645      | suite       |             | chaises efgh|
+|1530-1645      | suite       |             | chaises efgh (AnneSo)|
 |1645-1715      |  débrief 64 |             |             |
 |1715-1730      | conclusion  |             |             |
