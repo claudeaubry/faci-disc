@@ -3,7 +3,7 @@
 
 - agressivité qui ne trouve pas le destin par sublimation (cf. rapport IPDT
 
-- Opposition ou désaccord se produisant lorsque des éléments, des froces antagonistes entrenet en contact et cherchent à s'évincer réciproquement
+- Opposition ou désaccord se produisant lorsque des éléments, des forces antagonistes entrent en contact et cherchent à s'évincer réciproquement
 
 - Différend opposant une ou plusieurs personnes.
 
@@ -19,9 +19,6 @@
 - conflit dans discngine
 - conflit avec les parties prenantes
 
-Contexte à Discngine :
-- conflit à l'intérieur d'une équipe lié au fait que la vision ne soit pas assez explicite, pas de commun dans la vision ou dans les objectifs
-
 ### Causes à discngine
 - pas de commun dans la vision
 - pas d'objectif clairement défini
@@ -33,7 +30,7 @@ Contexte à Discngine :
 
 - Pourquoi les rétros ne font pas apparaitre les conflits cachés ?
   - comme un pacte familial à ne pas vouloir ouvrir ce qui fache
-  - contretemps, entre temps les agressivités ont été désamorcée (mais pas résolues!)
+  - contretemps, entre temps les agressivités ont été désamorcées (mais pas résolues!)
   - coût cognitif de la réminiscence d'affects à valence négative (partiellement neutralisée par le temps écoulé)
   - nécessité de [sécurité psychologique](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/)
   
@@ -106,28 +103,3 @@ Brian Arao et Kristi Clemens : From Safe Spaces to Brave Spaces : A New Way to F
 - une personne dirigeante qui à un comportement d'oppression sur les personnes avec qui elle travaille
 - une agression au travail / dans les transports en commun / dans la rue
 - ...
-
-
-
-
-
-
-
-
-
-Mind Map
-
-# Les conflits
-
-## 
-
-### Questions
-- Comment faire appraître les conflits cachés ?
-
-### Ateliers
-- Piste de danse OSBD
-- Appreciative inquiry
-- Solution focus
-
-
-
