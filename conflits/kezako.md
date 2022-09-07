@@ -81,25 +81,27 @@ Tiré des brave spaces, un format qui propose non pas d’évincer l’inconfort
 Brian Arao et Kristi Clemens : From Safe Spaces to Brave Spaces : A New Way to Frame Dialogue around Diversity and Social Justice.
 
 ### Théâtre Forum
-- Donner à voir
-- Changer de place / point de vue
-- Partager ses représentation
-- Répondre collectivement
+Le Théâtre Forum a été introduit par Augusto Boal pendant la dictature des années 1950/1960 au Brésil. L'une des premières formes, le _théâtre thérapeutique_ étaient le Théâtre de l'opprimé où l'on travaillais sur des relations en Oppresseurs et Opprimés et de faire explorer aux personnes opprimées des pistes. Dans une second temps, il utilisa le théâtre forum dans une forme _legislative_. Alors qu'il était élu dans l'état de Rio de Janeiro il utilisé cet outil pour permettre aux citoyens de transformé des problèmes concrets en propositions de lois qui porterait par la suite.
+
+"Le théâtre forum est une forme de théâtre social et participatif, où une situation qui pose problème est jouée." [Anne, formatrice au TF]
+Une séance se déroule en deux grandes moments.
+Une saynète est jouée (elle peut durée entre 1 minutes et ...).
+Puis, vient le temps du forum.
+Lors de ce second temps, les personnes spectatrices vont pouvoir participer pour proposer des modifications de la scène afin d'explorer des solutions de résolution. L'idée est d'inviter les personnes participantes à venir jouer leurs propositions.
+
+L'idée est de vivre une problématique d'une manière globale : avec son corps, ses émotions et ses modes de réflexion.
+
+On porte une intéraction particulière aux intéractions entre les individus. On vit et donne à voir. On parle d'approche systèmique où lorsqu'un personnage change c'est le système qui est modifié.
+"Le Théâtre Forum est un outil de transformation sociale" [Augusto Boal]
+Enfin, "le but n'est pas de trouver une solution unique à un problème donné mais d'expérimenter collectivement des possibilités" [Augusto Boal]
+
+Nous invitons les personnes participantes au séminaire de Discngine de vivre un très petit Théâtre Forum, le temps d'une heure pour toucher du doigt et vivre concrêtement ce que l'outil peut permettre de vivre pour traiter un problème concret.
 
 #### Les situations que l'on pourrait traiter avec le TF (non exaustif) dans le cadre du séminaire ? 
 - problème de communication  
-- *rejouer* une situation *inconfortable* 
-- des situations d'oppression, et trouver des solutions pour les personnes opprimées
+- *rejouer* une situation *inconfortable*
+- des situations d'oppression, et explorer des solutions pour les personnes opprimées
 
-#### Objectif (à déterminer) : 
-- introduire ce qu'est le TF : préparer une saynète sur une situation fictive pour faire vivre le TF
-- utiliser le TF pour échanger sur une situation (de conflit ?) => à déterminer en avance et à préparer
-- faire monter une saynète aux personnes participantes sur un sujet déterminer ensemble (en lien avec l'entreprise ou pas)
-
-#### Exemples de situations : 
-- des parents se rendent à l'école par des moyens de transports différents et se disputent
-- une réunion où un (des) membres on mal vécu le moment : je ne me sentais pas écouté, je n'arrivais à prendre la parole
-- un personne au travail semble aller mal mais n'exprime pas les raisons, elle n'adresse plus la parole à ses collègues depuis quelques semaines
-- une personne dirigeante qui à un comportement d'oppression sur les personnes avec qui elle travaille
-- une agression au travail / dans les transports en commun / dans la rue
-- ...
+#### Objectif :
+Proposer une introduction au Théâtre Forum en vivant une séance pendant 1h15.
+Un temps de présentation rapide introduira le Théâtre Forum qui se déroulera pendant 1 heure.

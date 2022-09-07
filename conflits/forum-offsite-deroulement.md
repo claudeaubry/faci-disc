@@ -18,6 +18,7 @@ facilitateurices : au moins une et peut-être 2
 
 ### Option 2 : On a déjà deux personnes pour jouer
 __est-ce que comme les groupes sont déterminés à l'avance, je pourrais aller demander dans chacun des groupes 2 personnes les réunir 20 minutes pour qu'ils puissent prendre connaissance de la saynète et être prêt à la jouer le jour J ?__
+
 5. **Action ! Saynète (5')**
   a. le joker demandent au personnages de se présenter (ils jouent)
   b. la scène se déroule
