@@ -2,29 +2,35 @@
 
 ## À quoi servent les règles
 
-Les règles aident à la convivance, le vivre ensemble. Elles assurent une certaine sécurité émotionnelle et permettent de retirer les protèges dents et protèges tibias.
+Les règles aident à la convivance, le vivre ensemble. En fournissant un cadre, elles assurent une certaine sécurité émotionnelle et permettent de retirer les protèges dents et protèges tibias.
+
+Une fois l'accordage réalisé, les règles permettent de ne pas revenir sur des choses déjà discutées et apportent ainsi une forme de confort.
 
 ### Exemples de règles
 
-- la "loi de deux pieds"
-   - ça commence quand ça commence
-   - les personnes présentes sont les bonnes personnes
-   - ça finit quand ça finit
-   - ce qui se passe est la meilleure chose qui pouvait se passer
+- Règles minimalistes 
+    - la "loi de deux pieds"
+       - ça commence quand ça commence
+       - les personnes présentes sont les bonnes personnes
+       - ça finit quand ça finit
+       - ce qui se passe est la meilleure chose qui pouvait se passer
+    - Le consentement
 
-- Le consentement
-  - un non est un non
-  - un oui peut devenir un non
-  - sans réponse c'est un non (qui ne dit mot, ne consent pas)
+- Règles détaillées
+    - Code of Conduct
+    - Definition of Done
 
-- Code of Conduct
-  - https://sudweb.fr/2018/code-de-conduite/
+## Points d'attention
+
+Les règles peuvent perdurer alors que le contexte a changé ([fable des singes](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_du_singe)), il est donc particulièrment nécessaire de les actualiser quand on évolue dans un contexte complexe.  
+
+Il y a aussi les règles qui viennent alimenter des croyances non vérifiées ([cargo culte](https://fr.wikipedia.org/wiki/Culte_du_cargo)) 
 
 ## Liens avec les autres thèmes
 
-Certaines règles peuvent être mises en place suite à de décisions collectives.
+Certaines règles peuvent être mises en place suite à des décisions collectives.
 
-Si une règle est imposée ou si elle est mal comprise, elle peut devenir une source de conflit.
+Si une règle est imposée ou si elle est mal comprise, elle peut devenir une source de conflits.
 
 Les valeurs, considérées comme des règles, peuvent faciliter une équipe à trouver une vision commune. À l'inverse, une règle peut également empêcher la vision d'évoluer.
 
@@ -32,8 +38,11 @@ Les valeurs, considérées comme des règles, peuvent faciliter une équipe à t
 
 ### Les valeurs
 
-En tant qu'organisation ou équipe, il est important de trouver des valeurs communes et d'identifier la différence entre valeurs, principes et pratiques. Il est également important de comprendre comment certains contextes peuvent renforcer ou affaiblir les avleurs.
-La facilitation intervient en proposant des outils permettant de s'accorder sur les valeurs
+En tant qu'organisation ou équipe, il est important de trouver des valeurs communes afin d'être accordé à un niveau stratégique (le pourquoi). Les règles et les pratiques peuvent ensuite prendre racine dans ces valeurs afin d'apporter la dimension tactique (le comment).
+
+En prospective, des ateliers de facilitation peuvent aider à comprendre comment certains contextes renforcent ou affaiblissent les valeurs.
+
+La facilitation peut intervenir en ammont ou en aval en proposant des outils permettant d'accorder ou de faire émerger des règles en fonction des valeurs.
 
 ### Les règles d'organisation
 - comment s'accorder avec les valeurs au quotidien
@@ -50,15 +59,10 @@ Pour qu'une équipe puisse avancer dans la même direction, elle doit, au dépar
 ### Les règles des parties prenantes
 Il existe parfois un "choc des cultures" entre une équipe auto-gérée et les parties prenantes. Pour le bon déroulement de tout projet, il est donc primordial de trouver comment résoudre ce choc et comment trouver l'accordage nécessaire.  
 
-## Les ateliers
+## Exemple d'ateliers
 
 - moving motivators
-- scierie des valeurs
 - co-écrire un DoD
 - mandala holistique
   - https://www.changer-de-paradigme.fr/mandala-holistique-une-vision-claire-et-des-caps-communs/
   - https://www.metacartes.cc/faire-ensemble/recettes/mandala-holistique/
-
-## Liens
-
-- https://openspaceagility.com/osa/osa-training/course-instructors/daniel-mezick/
