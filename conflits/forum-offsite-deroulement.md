@@ -1,4 +1,4 @@
-# Decision-Offsite-Déroulement
+# Forum-Offsite-Déroulement
 nombre de personnes participantes : 8
 facilitateurices : au moins une et peut-être 2
 
