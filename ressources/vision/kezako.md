@@ -1,3 +1,7 @@
+---
+title: La vision
+---
+
 # Comment la facilitation peut aider à partager une vision à Discngine
 
 ## Qu'est ce que la vision ?

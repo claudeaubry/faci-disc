@@ -1,0 +1,46 @@
+title: Kezako
+description: >
+  Documentation d'introduction de l'offsite 2022 de Discngine
+author: pntbr
+email: pntbr@scopyleft.fr
+repository: claudeaubry/faci-disc
+
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+gfm_quirks: paragraph_end
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: article
+
+collections_dir: ressources
+
+collections:
+  pages:
+    output: true
+    order:
+  conflits:
+    description: La facilitation dans les contextes conflictuels
+    output: true
+  decisions:
+    description: La facilitation dans les prises de décisions
+    output: true
+  regles:
+    description: La facilitation et les règles
+    output: true
+  vision:
+    description: La facilitation pour s'accorder sur la vision
+    output: true
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-github-metadata
+  - jekyll-relative-links
+  - jekyll-titles-from-headings

@@ -1,3 +1,7 @@
+---
+title: Les décisions
+---
+
 # La facilitation pour aider à décider à Discngine 
 
 ## La décision collective
