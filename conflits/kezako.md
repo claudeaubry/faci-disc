@@ -76,7 +76,7 @@ _Difficulté sur la case : sentiment et besoin_
 
 #### Appreciative inquiry
 
-L'idée est de ne pas focaliser sur les problèmes mais plus sur les solutions
+L'idée est de ne pas focaliser sur les problèmes, mais plus sur les solutions
 "Quand on tombe dans une fosse à purin, on ne se demande pas pourquoi on est
 tombé dedans" - Virginia Satir
 
@@ -115,42 +115,50 @@ sorte de rétro orientée échec (séparation avec une personne, arrêt d'un pro
 
 ### Théâtre Forum
 
+#### Origine
+
 Le Théâtre Forum a été introduit par Augusto Boal pendant la dictature des
 années 1950/1960 au Brésil. L'une des premières formes, le _théâtre
-thérapeutique_ étaient le Théâtre de l'opprimé où l'on travaillais sur des
+thérapeutique_ était le Théâtre de l'opprimé où l'on travaillait sur des
 relations en Oppresseurs et Opprimés et de faire explorer aux personnes
-opprimées des pistes. Dans une second temps, il utilisa le théâtre forum dans
-une forme _legislative_. Alors qu'il était élu dans l'état de Rio de Janeiro il
-utilisé cet outil pour permettre aux citoyens de transformé des problèmes
-concrets en propositions de lois qui porterait par la suite.
+opprimées des pistes. Dans un second temps, il utilisa le théâtre forum dans
+une forme _législative_. Alors qu'il était élu dans l'état de Rio de Janeiro il
+a utilisé cet outil pour permettre aux citoyens de transformer des problèmes
+concrets en propositions de loi qui porteraient par la suite.
+
+#### Objectif
+
+"le but n'est pas de trouver une solution unique à un problème donné, mais
+d'expérimenter collectivement des possibilités" [Augusto Boal]
+
+#### Méthode
+
+On porte une attention particulière aux interactions entre les individus. On
+vit et donne à voir. On parle d'approche systémique car lorsqu'un personnage
+change c'est le système qui est modifié. "Le Théâtre Forum est un outil de
+transformation sociale" [Augusto Boal]
+
+L'idée est de vivre une problématique d'une manière globale : avec son corps,
+ses émotions et ses modes de réflexion.
+
+#### Déroulé
 
 - "Le théâtre forum est une forme de théâtre social et participatif, où une
   situation qui pose problème est jouée." [Anne, formatrice au TF]
-- Une séance se déroule en deux grandes moments.
-- Une saynète est jouée (elle peut durée entre 1 minutes et ...).
+- Une séance se déroule en deux grands moments.
+- Une saynète est jouée (elle peut duré entre 1 minute et ...).
 - Puis, vient le temps du forum.
 - Lors de ce second temps, les personnes spectatrices vont pouvoir participer
   pour proposer des modifications de la scène afin d'explorer des solutions de
   résolution. L'idée est d'inviter les personnes participantes à venir jouer
   leurs propositions.
 
-L'idée est de vivre une problématique d'une manière globale : avec son corps,
-ses émotions et ses modes de réflexion.
-
-On porte une intéraction particulière aux intéractions entre les individus. On
-vit et donne à voir. On parle d'approche systèmique où lorsqu'un personnage
-change c'est le système qui est modifié. "Le Théâtre Forum est un outil de
-transformation sociale" [Augusto Boal]
-
-Enfin, "le but n'est pas de trouver une solution unique à un problème donné mais
-d'expérimenter collectivement des possibilités" [Augusto Boal]
-
-Nous invitons les personnes participantes au séminaire de Discngine de vivre un
+Nous invitons les personnes participantes au séminaire de Discngine à vivre un
 très petit Théâtre Forum, le temps d'une heure pour toucher du doigt et vivre
-concrêtement ce que l'outil peut permettre de vivre pour traiter un problème
+concrètement ce que l'outil peut permettre de vivre pour traiter un problème
 concret.
 
-#### Les situations que l'on pourrait traiter avec le TF (non exaustif) dans le cadre du séminaire ?
+#### Les situations que l'on pourrait traiter avec le TF (non exhaustif) dans le cadre du séminaire ?
 
 - problème de communication
 - _rejouer_ une situation _inconfortable_
