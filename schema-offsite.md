@@ -34,12 +34,14 @@ la facilitation
 | horaires  | Lieu 1                           | Lieu 2             | Lieu 3                     |
 | --------- | -------------------------------- | ------------------ | -------------------------- |
 | 0900-0945 | accordage 64                     |                    |                            |
-| 0945-1100 | VISION abcd (Fouzia; Seb)        | OSBD ef (Fabrice)  | Forum gh (AnneSo)          |
-| 1115-1215 | suite (Fouzia; Seb)              | Forum gh (Fabrice) | OSBD ef (AnneSo)           |
+| 0945-1100 | VISION abcd (Claude ; Violaine ; Fouzia; Seb)        | OSBD ef (Stéphane ; Fabrice)  | Forum gh (Audrey ; AnneSo)          |
+| 1100-1115 | PAUSE                                |                    |                            |
+| 1115-1215 | suite (Claude ; Violaine ; Fouzia; Seb)              | Forum ef (Audrey ; Fabrice) | OSBD gh (Stéphane ; AnneSo)           |
 | 1215-1230 | débrief 64                       |                    |                            |
 | repas     |                                  |                    |                            |
-| 1400-1515 | décision efgh (Aurélien; AnneSo) |                    | chaises abcd (Seb; Fouzia) |
-| 1530-1645 | suite (Aurélien; AnneSo)         |                    | scierie abcd (Seb; Fouzia) |
+| 1400-1515 | décision efgh (Claude ; Audrey ; Aurélien; AnneSo) |                    | chaises abcd (Stéphane ; Violaine ; Seb; Fouzia) |
+| 1515-1130 | PAUSE                                |                    |                            |
+| 1530-1645 | suite (Claude ; Audrey ; Aurélien; AnneSo)         |                    | scierie abcd (Stéphane ; Violaine ; Seb; Fouzia) |
 | 1645-1730 | débrief 64                       |                    |                            |
 
 ### Jeudi
