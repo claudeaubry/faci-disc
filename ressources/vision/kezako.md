@@ -74,4 +74,4 @@ Questions
 
 La charte peut être élargie aux valeurs et aux règles, et être présentée dans un canevas :
 
-![Canevas servant de charte](/assets/charte.png)
+![Canevas servant de charte](/faci-disc/assets/charte.png)
