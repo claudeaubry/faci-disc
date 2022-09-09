@@ -11,12 +11,12 @@ L'usage le plus courant est celui qui porte sur le produit (on parle de Product 
 
 *On peut aussi étendre la vision à l'équipe, celle en charge du produit à faire. La question du Pourquoi (pourquoi existons-nous en tant qu'équipe ?) permet de forger un esprit d’équipe préalablement à son travail sur le produit. Cette problématique  sera abordée dans le thème Règles.*
 
-La vision (produit) est d'abord exprimée par le sponsor ou commanditaire. Elle peut être reformulée collectivement, puis l'équipe y répond en déclinant sa mission. Pour s'assurer que la mission est sur les bons rails, des indicateurs sont utiles.
+La vision (produit) est d'abord exprimée par le sponsor ou commanditaire. Elle peut être reformulée collectivement, puis l'équipe y répond en déclinant sa mission. Pour s'assurer que la mission est sur les bons rails, on définit des objectifs de saison avec les résultats clés attendus.
 
 C'est pourquoi le thème comporte 3 composants : vision, mission et saison.
 
 > **Notes**
-> Le thème s'appelle vision et comporte un composant appelé aussi vision. Le thème aurait pu être renommé Purpose (raison d'être).
+> Le thème s'appelle vision et comporte un composant appelé aussi vision. Il aurait pu être renommé Purpose (raison d'être).
 
 Pour chaque composant de la vision nous donnons une liste de questions auxquelles la facilitation peut aider à répondre.
 
@@ -75,3 +75,56 @@ Questions
 La charte peut être élargie aux valeurs et aux règles, et être présentée dans un canevas :
 
 ![Canevas servant de charte](/faci-disc/assets/charte.png)
+
+## Un exemple : PermaBio
+
+### Vision
+
+#### Affiche
+
+![Affiche PermaBio](/faci-disc/assets/affiche.jpg)
+
+### Vision Draft
+Né du constat que les gens souhaitaient manger des bons produits locaux, PermaBio a pour vocation de devenir une plateforme de proximité d’échanges de fruits et légumes bio.
+Le principe est de ne pas faire de stock, les fruits et légumes sont récoltés à la demande. Bien sûr, cela amène à ne proposer que des fruits et légumes de saison cultivés en permaculture par un réseau de jardiniers.
+
+### Mission
+
+#### Utilisateurs
+
+- Elodie : utilisatrice de PermaBio pour cuisiner
+- Bob : jardinier
+
+Chez PermaBio
+- Marie : approvisionnement en légumes
+- Victor : commercial
+- Pierre : sponsor
+
+#### Valeur d'usage
+- Elodie fait des soupes pour ses enfants avec des beaux légumes
+- Bob vend ses tomates
+
+#### Autres valeurs
+- Valeur écologique :  impact carbone réduit avec les livraisons à vélo, moins de déchets avec le compostage
+- Valeur sociale : partage des surplus
+
+#### Qualités du produit
+
+- engagement à livrer en moins d’une heure à partir de la commande et uniquement à vélo.
+- connexion avec des sites de cuisine (comme mesrecettes.com) pour ajouter un bouton « faites-vous livrer par PermaBio » en dessous de la liste ingrédients des recettes
+- appli mobile
+
+#### Mission Draft
+
+PermaBio fournit à domicile les ingrédients et la recette pour cuisiner. Le tarif est à la part : pas besoin de peser chaque légume ni d’avoir un prix au kilo. Le prix de la part est dégressif avec le nombre demandé.
+
+Les livraisons se font uniquement à vélo, ce qui limite à un rayon de 10 km. L’engagement est de livrer en moins d’une heure à partir de la commande.
+
+Les propositions reposent sur ce qui est disponible dans le champ PermaBio ou chez un des jardiniers labellisés. Ce qui est proposé est donc actualisé pour tenir compte des fruits et légumes récoltables. PermaBio propose une soupe, une entrée, un plat de légumes et un dessert avec des fruits.
+Ces plats sont renouvelés tous les jours. PermaBio fournit tous les ingrédients permettant de cuisiner y compris les épices qui sont dans la recette.
+
+### Saison
+
+Les objectifs de la saison 1 avec 5 impacts clés :
+
+![Objectifs de saison](/faci-disc/assets/saison.png)

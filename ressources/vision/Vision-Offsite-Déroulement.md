@@ -12,7 +12,7 @@ Les ateliers se déroulent en cinq parties :
 1. le sujet choisi (5')
 2. vision (45')
 3. mission (30')
-4. indicateurs (30')
+4. saison (30')
 5. consolidation charte (15')
 
 ## Matériel
@@ -39,7 +39,7 @@ Les autres participants jouent des rôles parmi les suivants : utilisateur, dév
 Un facilitateur présente l'agenda avec les différentes parties à passer sur le sujet et le but à atteindre :
 - vision (45')
 - mission (30')
-- indicateurs (30')
+- saison (30')
 
 ## Vision
 Le facilitateur fournit un exemple de vision[^ex]. Le sponsor expose son idée de produit.
@@ -120,13 +120,13 @@ Ajouter les résultats des 2 autres zones.
 
 Placer le texte ainsi élaboré dans la case dédiée à la mission du canevas.
 
-## Indicateurs
+## Saison
 
 ### Souvenir des impacts (18')
 
 Atelier adapté de **Souvenir du futur**, un des _Innovation Games_.
 
-On demande aux participants de se téléporter dans le futur : par exemple un mois après la date cible. Pendant ce mois, ils ont utilisé quotidiennement l'application (ou le service).
+On demande aux participants de se téléporter dans le futur, dans quatre mois. Pendant le dernier mois, ils ont utilisé quotidiennement l'application (ou le service) qui a été déployée à la fin de la saison (3 mois).
 
 > **Warning**
 > C'est un atelier qui marche bien si on présente correctement le retour dans le passé, à partir du futur.
@@ -139,7 +139,7 @@ Un impact devrait pouvoir être mesuré, les facilitateurs insistent pour obteni
 
 Les résultats de l'atelier sont regroupés en 3 à 5 impacts. Par exemple un ou deux sur l'aspect économique, un pour le social, un écologique plus un sur la maintenance si l'équipe est aussi en charge d'une version à maintenir.
 
-Pour chacun, on associe une date et un ou plusieurs résultats clés.
+À chacun on associe un ou plusieurs impacts clés.
 
 Ils sont placés sur le canevas.
 
