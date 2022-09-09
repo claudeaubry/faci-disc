@@ -1,17 +1,21 @@
 # Règles Offsite Déroulement
 
-Le thème règle inclut 4 parties :
-1. Règles kézako : définition, exemples des différents niveaux de règles, apport de la facilitation (15')
-2. Retour d'expérience : la loi des deux pieds et le consentement (30')
-3. S'accorder sur les règles : la scierie des valeurs (1h30)
+- mercredi 14h à 16h45
+- jeudi 14h à 16h45 
+
+Le thème règles inclut 4 parties :
+1. Règles kézako : définition, exemples des différents niveaux de règles, apport de la facilitation (10')
+2. Retour d'expérience : la loi des deux pieds et le consentement (20')
+3. S'accorder sur les règles : la scierie des valeurs (1h + 30') - pause 15' en plus
 4. Les règles : impulsion ou frein ? : les chaises agiles (30')
 
 ## Kézako
-- durée : 15'
+- durée : 10'
 - nombre de participants : 30
+- nombre de facilitateurs : 4
 
 ## Retour d'expérience
-- durée : 30'
+- durée : 20'
 - nombre de participants : 30
 
 Un moment d'échange sur le consentement et la loi des deux pieds.
@@ -28,9 +32,12 @@ Un moment d'échange sur le consentement et la loi des deux pieds.
   - sans réponse c'est un non (qui ne dit mot, ne consent pas)
 
 ## La scierie des valeurs
-- durée : 1h30
+- thème : quelles valeurs pour l'offsite 2023
+- durée : 1h + 30'
 - nombre de participants : 15
 - nombre de personnes animatrices : 2
+- 1h les valeurs en 3 ou 4 sessions
+- 30' pour découler les règles
 
 ### Pourquoi ?
 
@@ -89,7 +96,13 @@ La personne animatrice :
   On vérifie si tout le monde est satisfait du résultat :
     - on définit une phrase pour illustrer chaque valeur
     - on essaye de trouver des pratiques, des principes
-
+- Étape 6
+    On trouve les règles qui découlent de ces valeurs. 
+    On demande aux personnes de noter certaines règles et on demande aux personnes de les mettre en lien avec les valeurs. 
+- Étape 7 (à voir en fonction du temps)
+    Les deux groupes échangent et présentent leurs valeurs et leurs règles.
+    
+    
 ## Les chaises agiles
 - durée : 30'
 - nombre de participants : 15
@@ -116,7 +129,7 @@ Une vingtaine de chaises
 - Hormis la phase d'explication et la donnée des missions aux différents groupes, le jeu se passe intégralement dans le silence.
 - Règles :
     - si tu entends le mot  "clic", tu mets les mains en l'air et tu arrêtes de bouger
-    - toute forme de violence est proscrite
+    - on vous demande de réaliser l'atelier calmement
 - Chaque groupe se voit donner une mission par le facilitateur : Pour terminer la mission, il faut que … et vous avez 20 minutes, ce qui en général est largement suffisant.
 
 - Étape 1 - explications
@@ -125,7 +138,7 @@ Expliquer l'atelier et énoncer les règles à l'ensemble du groupe
 - Étape 2 - les missions
 Constituer 3 groupes et nommer un responsable par équipe.
 Les personnes animatrices donnent les missions aux 3 responsables de groupes séparément.
-Il faut donner la consigne pour chaque équipe d’être le plus efficace possible, ce qui va créer un climat compétitif.
+Il faut donner la consigne à chaque équipe en leur demandant d’être le plus efficace possible, ce qui va créer un climat compétitif.
 
 Les consignes doivent être différentes pour chaque groupe, mais complémentaires, par exemple : 
     - Les chaises doivent se toucher
@@ -136,3 +149,5 @@ Les consignes doivent être différentes pour chaque groupe, mais complémentair
 Les responsables de groupes transmettent les consignes à leur équipe et chaque équipe peut commencer.
 
 - Étape 4 - fin de l'atelier et débrief
+
+*Nota : demander aux groupes de ne pas discuter de l'atelier avec des personnes ne l'ayant pas encore fait !*
