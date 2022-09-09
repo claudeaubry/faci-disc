@@ -100,15 +100,26 @@ B: B is a participant in the meeting. This person is discreet, doesn’t seem to
 
 
 A: _Starts the meeting in a steady and fast pace voice. Hi everyone._ Our goal today is to plan next week sprint. Please go to the board and review the different cards we have to do.
+
 B: _Showing signs if stress. B tries to speak several time but the connection doesn’t seem to be working. “A” doesn’t hear her and continues_
+
 A: _A let C speak._ Yes C, we’re listening … _waiting a few second like if someone was speaking._ Indeed, I totally agree with you. Anyone else?
+
 B: Yes, I wanted …
+
 A: _cutting B._ Okay then let’s continue.
+
 B: Wait I wanted to talk about …
+
 A: Go ahead D… _waiting a few second like if someone was speaking._ Yes, yes you are right, blablabla _A keeps talking_
+
 B: _B start to loose his/her patience and composure. He/she doesn’t understand why they won’t let him speak and doesn’t know how to share is feeling._ Can I speak?
+
 A: Sure of course B, go ahead.
+
 B: I’m having issue speaking here. I’m going to leave the meeting now. Good day
+
 A: Darn. I don’t understand… What just happened?
+
 B: _B closes his/her laptop and put his/her head in his/her hands_
 
