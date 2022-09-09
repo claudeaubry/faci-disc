@@ -5,7 +5,7 @@ title: Faci-Disc
 
 # Kezako
 
-- [Les conflits](/ressources/conflits/kezako.html)
-- [Les décisions](/ressources/decisions/kezako.html)
-- [Les règles](/ressources/regles/kezako.html)
-- [La vision](/ressources/vision/kezako.html)
+- [Les conflits](/faci-disc/ressources/conflits/kezako.html)
+- [Les décisions](/faci-disc/ressources/decisions/kezako.html)
+- [Les règles](/faci-disc/ressources/regles/kezako.html)
+- [La vision](/faci-disc/ressources/vision/kezako.html)
