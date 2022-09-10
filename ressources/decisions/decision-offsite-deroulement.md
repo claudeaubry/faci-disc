@@ -112,7 +112,7 @@ Sujets possibles :
 
 Étapes :
 
-- chacun élabore sa proposition ( 5')
+- chacun élabore sa proposition (5')
 - on se groupe par 2 ou 3 pour la consultation et on tourne (15')
 - intégrer les conseils fournis dans la proposition initiale et éventuellement comparer les  propositions (5')
 

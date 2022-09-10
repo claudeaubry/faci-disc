@@ -2,7 +2,7 @@
 title: Les décisions
 ---
 
-# La facilitation pour aider à décider
+# Comment la facilitation aide à décider
 
 ## La décision collective
 
@@ -54,7 +54,7 @@ Car dans une décision collective les deux composants sont fondamentaux :
 Une délibération collective peut être informelle, ce qui est souvent le cas. Mais elle ne permet pas toujours l'expression de tous les participants.
 Pour susciter les avis de chacun, voire révéler des oppositions de manière frontale, le facilitateur peut s'appuyer sur des techniques d'animation, comme le **débat mouvant**.
 
-D'autres approches s'appuient sur ce qu'on peut appeler des processus de décision, avec un facilitateur qui guide le groupe à dérouler des étapes.
+D'autres approches s'appuient sur ce qu'on peut appeler des processus de décision, avec un facilitateur qui guide le groupe pour dérouler des étapes.
 
 La **décision par consentement** est un processus synchrone (tout le groupe délibère ensemble) tandis que la **sollicitation d'avis** (*advice process*) se déroule de façon asynchrone, avec un tempo donné par une personne —le solliciteur d'avis.
 
@@ -72,24 +72,26 @@ Le vote est une règle d'arrêt courante (avec le vote majoritaire) qui a l'avan
 
 Avec la sollicitation d'avis, le pouvoir de décider est laissé à une seule personne, qui définit sa règle d'arrêt.
 
-Quelle que soit la règle, le facilitateur veillera à ce que la décision s'impose à tous, ce qui la fait devenir l'équivalent d'une règle (voir ce thème).
+Quelle que soit la règle, le facilitateur veillera à ce que la décision s'impose à tous, ce qui la fait devenir une obligation, l'équivalent d'une règle (voir ce thème).
 
 ## Les critères influençant la façon de prendre une décision
 
 Les techniques de délibération et d'arrêt dépendent du contexte,  de la *chose* à décider, ainsi que du groupe. Faciliter une prise de décision c'est proposer (et animer) les outils et techniques adaptés au contexte.
 
 ### Réversibilité
-Les boucles de feedback peuvent amener à revoir des décisions réversibles (devenues inadéquates, absurdes ou contestées).
+Certains décisions sont réversibles. Les boucles de feedback peuvent amener à revoir ces décisions sur lesquelles on peut revenir (devenues inadéquates, absurdes ou contestées). On peut donc y passer moins de temps en délibération que si elles sont irréversibles.
 
 ### Expertise
 Une prise de décision peut nécessiter de l'expertise en dehors du groupe.
 
 ### Impact
 Le résultat d'une décision peut avoir un impact variable :
-- sur une seule personne (dans ce cas qu'elle décide toute seule)
+- sur une seule personne (dans ce cas, qu'elle décide toute seule !)
 - sur une équipe
 - sur une équipe et ses parties prenantes
 - sur toute une organisation
+
+Plus l'impact est important, plus le besoin de délibérer est grand, avec les personnes impactées.
 
 ## Sur quoi prendre une décision collective
 
@@ -105,6 +107,8 @@ Une décision peut avoir une portée stratégique, tactique ou opérationnelle. 
 - l'amélioration suite à une rétrospective
 - la façon de prendre les décisions
 
+### Forme des options
+
 À noter que la forme du choix peut être variable :
 - pour ou contre une proposition (on le prend le nouveau ?)
 - un choix parmi plusieurs alternatives (restau mexicain, libanais ou pizza ?)
@@ -113,4 +117,12 @@ Une décision peut avoir une portée stratégique, tactique ou opérationnelle. 
 ### Avec quoi
 On dispose parfois de données collectées en amont du processus de décision (ou pendant). Certaines sont souvent des estimations (de la valeur et du coût d'une option), donc avec de l'incertitude, source de débats.
 
-Sinon la construction des options fait partie du processus de décision.
+Sinon, la construction des options fait partie du processus de décision.
+
+## Décider qui décide
+
+Tout d'abord il existe de nombreuses situations où la décision peut être prise de façon individuelle : chaque fois que l'impact ne concerne qu'une personne. Pas besoin de facilitation.
+
+Si la décision impacte uniquement des coéquipiers (qui se connaissent bien), la recherche du consentement est privilégiée. La personne qui porte la proposition est celle qui a eu l'idée, si elle a la capacité de le faire. Si ce n'est pas le cas, elle pourra déléguer cette responsabilité. Quand la délégation n'est pas évidente, on pourra utiliser l'élection sans candidat pour identifier le porteur.
+
+Si la décision impacte largement au-delà de l'équipe, le besoin de délibération est important. En fonction des résultats de la délibération, on pourra s'orienter vers un vote ou passer par un processus de sollicitation d'avis. Dans ce cas il convient aussi de décider quelle personne porte la proposition et finalement décidera.
