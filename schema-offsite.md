@@ -13,8 +13,7 @@
 
 ### À la fin de chaque demi-journée
 
-Pour débriefer la demi-journée, répondre aux questions ouvertes et recentrer sur
-la facilitation
+Pour débriefer la demi-journée, répondre aux questions ouvertes et recentrer sur la facilitation
 
 - un quart d'heure en fin de chaque matinée
 - 3/4h le mercredi soir
@@ -40,7 +39,7 @@ la facilitation
 | 1215-1230 | débrief 64                       |                    |                            |
 | repas     |                                  |                    |                            |
 | 1400-1515 | décision efgh (Claude ; Audrey ; Aurélien; AnneSo) |                    | chaises abcd (Stéphane ; Violaine ; Seb; Fouzia) |
-| 1515-1130 | PAUSE                                |                    |                            |
+| 1515-1530 | PAUSE                                |                    |                            |
 | 1530-1645 | suite (Claude ; Audrey ; Aurélien; AnneSo)         |                    | scierie abcd (Stéphane ; Violaine ; Seb; Fouzia) |
 | 1645-1730 | débrief 64                       |                    |                            |
 

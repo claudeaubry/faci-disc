@@ -2,7 +2,7 @@
 title: Les décisions
 ---
 
-# La facilitation pour aider à décider à Discngine 
+# La facilitation pour aider à décider
 
 ## La décision collective
 
@@ -37,7 +37,7 @@ Et bien sûr, une décision devrait être en phase avec la **vision** partagée.
 
 ## Les composants d'une décision collective
 
-La prise de décision autoritaire, celle qui vient encore en premier dans l'esprit de beaucoup de monde —c'est le chef qui doit décider— ne correspond pas à la vision de Discngine. 
+La prise de décision autoritaire, celle qui vient encore en premier dans l'esprit de beaucoup de monde —c'est le chef qui doit décider— ne correspond pas à la vision de Discngine.
 
 Deux autres modes de décision souvent utilisés ne sont pas totalement satisfaisants :
 - la décision consensuelle —tout le monde doit être d'accord— prend du temps et n'aboutit pas toujours à une action,
@@ -66,7 +66,7 @@ La règle d'arrêt, qui met fin à la délibération pour sélectionner l'action
 - le vote.
 
 La non opposition ne signifie pas forcément que tout le monde est d'accord (consensus) mais que personne ne conteste explicitement la décision. Le processus de décision par consentement vise cet objectif, sans garantie d'y arriver.
-Il intègre, comme d'ailleurs la sollicitation d'avis, la **réduction des opinions**, en intégrant dans les objections ou conseils dans les options proposées. 
+Il intègre, comme d'ailleurs la sollicitation d'avis, la **réduction des opinions**, en intégrant les objections ou conseils dans les options proposées.
 
 Le vote est une règle d'arrêt courante (avec le vote majoritaire) qui a l'avantage de donner exactement le même poids à chaque participant. Il existe de nombreuses formes de vote. Le vote par **consentement systémique** intègre la notion d'objection (du processus de consentement).
 
@@ -114,8 +114,3 @@ Une décision peut avoir une portée stratégique, tactique ou opérationnelle. 
 On dispose parfois de données collectées en amont du processus de décision (ou pendant). Certaines sont souvent des estimations (de la valeur et du coût d'une option), donc avec de l'incertitude, source de débats.
 
 Sinon la construction des options fait partie du processus de décision.
-
-
-
-
-
