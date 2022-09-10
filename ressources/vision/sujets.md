@@ -1,51 +1,8 @@
-# Sujets possibles pour l'atelier Vision à l'offsite
-
-## PermaBio
-
-_Utilisé dans L'art de devenir une équipe agile_
-
-### Le slogan
-
-> Des fruits et légumes bio, du jardin à votre cuisine en moins d'un jour, sans impact carbone
-
-### L'idée
-Pierre est le fondateur de PermaBio. Voici ce qu’il raconte de son projet :
-
->  PermaBio est né du constat que les gens souhaitaient manger des bons produits locaux. Avec le développement de la permaculture périurbaine, de plus en plus de jardiniers auront des surplus à partager. PermaBio a pour vocation de devenir une plateforme de proximité d’échanges de fruits et légumes bio.
->
->  En ce qui concerne la production, PermaBio dispose d’un champ d’un hectare en permaculture et s’appuie également sur un réseau de jardiniers labellisés.
->
->  Le principe est de ne pas faire de stock, les fruits et légumes sont récoltés à la demande. Bien sûr, cela amène à ne proposer que des fruits et légumes de saison.
->
->  PermaBio a déjà testé le concept de la distribution de légumes aux particuliers. Maintenant l’objectif est d’aller plus loin en offrant un service : plutôt que de proposer des fruits et légumes, on propose tout ce qu’il faut pour un plat. Le client n’a plus besoin de savoir de quoi il a besoin en détail, il demande juste un plat pour un nombre de personnes et PermaBio lui apporte, il n’aura plus qu’à le préparer, avec la recette fournie.
-
-### Un peu de solution
-Un père de famille a l’idée de faire une soupe, mais il ne dispose pas des légumes ; il appelle PermaBio qui lui fournit à domicile les ingrédients et la recette pour faire la soupe.
-
-Le tarif est à la part : pas besoin de peser chaque légume ni d’avoir un prix au kilo. Le prix de la part est dégressif avec le nombre demandé.  
-
-Les livraisons se font uniquement à vélo, ce qui limite à un rayon de 10 km. L’engagement est de livrer en moins d’une heure à partir de la commande.
-
-Les propositions reposent sur ce qui est disponible dans le champ PermaBio ou chez un des jardiniers labellisés. Ce qui est proposé est donc actualisé pour tenir compte des fruits et légumes récoltables. PermaBio propose une soupe, une entrée, un plat de légumes et un dessert avec des fruits.
-
-Ces plats sont renouvelés tous les jours. PermaBio fournit tous les ingrédients permettant de cuisiner y compris les épices qui sont dans la recette.
-
-Notre projet est de rendre ce service accessible à de nouveaux adeptes de la permaculture et du bio.
-
-### Les rôles pour l'atelier
-
-- Pierre : sponsor
-- Lucas : Product owner
-- Sara : Scrum master
-- Mehdi : développeur
-- Marie : appros légumes
-- Bob : jardinier
-- Victor : commercial
-- Elodie : utilisatrice pour cuisiner
+---
+title: Sujet pour le thème vision
+---
 
 ## Peetic/Shelter
-
-_Utilisé dans Scrum édition 6_
 
 ### L'idée
 
@@ -68,21 +25,18 @@ Clara a incité l'équipe à s'assurer d'une adoption responsable, incluant sté
   vétérinaire
 
 - vaccins
-
 - stérilisation
 
 #### Lou  
   club utilisateurs
 
 - focus group
-
 - nourriture
 
 #### Emma  
   sponsor
 
 - associations de défense des animaux
-
 - contact avec les refuges
 
 #### Karine
@@ -98,6 +52,7 @@ Clara a incité l'équipe à s'assurer d'une adoption responsable, incluant sté
   Famille d’accueil
 
 - 2 enfants
+- une maison
 
 #### Paul  
   Product Owner
@@ -108,12 +63,10 @@ Clara a incité l'équipe à s'assurer d'une adoption responsable, incluant sté
   commercial
 
 - comportement des propriétaires d’animaux
-
 - événements canins et félins
 
 #### Alan  
   expert Infra
 
 - plateforme technique
-
 - cartographie
