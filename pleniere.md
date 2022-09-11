@@ -11,6 +11,7 @@ En deux temps :
 - Welcome et introduction de l'Offsite par Éric ou Sébastien (5')
 - Présentation de l'équipe des facilitateurs (10')
 - présentation des thèmes et du planning (5')
+- Icebreaker ?
 - repartition des équipes (5')
 
 **Mercredi matin**
