@@ -2,7 +2,7 @@
 
 - ça démarre à 9h00
 - ça s'arrête à 17h30
-- et on s'arrête entre 12h30 à 14h00
+- et on s'arrête de 12h45 à 14h00
 
 ## Plénière
 
@@ -35,8 +35,8 @@ Pour débriefer la demi-journée, répondre aux questions ouvertes et recentrer 
 | 0900-0945 | accordage 64                     |                    |                            |
 | 0945-1100 | VISION abcd (Claude ; Violaine ; Fouzia; Seb)        | OSBD ef (Stéphane ; Fabrice)  | Forum gh (Audrey ; AnneSo)          |
 | 1100-1115 | PAUSE                                |                    |                            |
-| 1115-1215 | suite (Claude ; Violaine ; Fouzia; Seb)              | Forum ef (Audrey ; Fabrice) | OSBD gh (Stéphane ; AnneSo)           |
-| 1215-1230 | débrief 64                       |                    |                            |
+| 1115-1230 | suite (Claude ; Violaine ; Fouzia; Seb)              | Forum ef (Audrey ; Fabrice) | OSBD gh (Stéphane ; AnneSo)           |
+| 1215-1245 | débrief 64                       |                    |                            |
 | repas     |                                  |                    |                            |
 | 1400-1515 | décision efgh (Claude ; Audrey ; Aurélien; AnneSo) |                    | chaises abcd (Stéphane ; Violaine ; Seb; Fouzia) |
 | 1515-1530 | PAUSE                                |                    |                            |
@@ -49,8 +49,8 @@ Pour débriefer la demi-journée, répondre aux questions ouvertes et recentrer 
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | --------------------- |
 | 0900-0945 | rando ([ex1](https://brouter.de/brouter-web/#map=15/43.1675/3.1657/OpenTopoMap&lonlats=3.161459,43.162515;3.157814,43.164421;3.151444,43.169994;3.152002,43.173971;3.156309,43.17707;3.160218,43.166813;3.161847,43.162659&profile=hiking-mountain), probably too long but can be adjusted, eg. [ex2](https://brouter.de/brouter-web/#map=15/43.1658/3.1695/OpenTopoMap&lonlats=3.161459,43.162515;3.157814,43.164421;3.154164,43.170386;3.159996,43.172577;3.160218,43.166813;3.161847,43.162659&profile=hiking-mountain)) |                  |                       |
 | 0945-1100 | VISION efgh (Aurélien)                                                                                                                                                                                                                                                                     | OSBD ab (Fouzia) | Forum cd              |
-| 1115-1215 | suite (Aurélien)                                                                                                                                                                                                                                                                           | Forum cd         | OSBD ab               |
-| 1215-1230 | débrief 64                                                                                                                                                                                                                                                                                 |                  |                       |
+| 1115-1230 | suite (Aurélien)                                                                                                                                                                                                                                                                           | Forum cd         | OSBD ab               |
+| 1230-1245 | débrief 64                                                                                                                                                                                                                                                                                 |                  |                       |
 | repas     |                                                                                                                                                                                                                                                                                            |                  |                       |
 | 1400-1515 | décision abcd                                                                                                                                                                                                                                                                              |                  | scierie efgh          |
 | 1530-1645 | suite                                                                                                                                                                                                                                                                                      |                  | chaises efgh (AnneSo) |
