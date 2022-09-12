@@ -36,11 +36,11 @@ Pour débriefer la demi-journée, répondre aux questions ouvertes et recentrer 
 | 0945-1100 | VISION abcd (Claude ; Violaine ; Fouzia; Seb)        | OSBD ef (Stéphane ; Fabrice)  | Forum gh (Audrey ; AnneSo)          |
 | 1100-1115 | PAUSE                                |                    |                            |
 | 1115-1230 | suite (Claude ; Violaine ; Fouzia; Seb)              | Forum ef (Audrey ; Fabrice) | OSBD gh (Stéphane ; AnneSo)           |
-| 1215-1245 | débrief 64                       |                    |                            |
+| 1230-1245 | débrief 64                       |                    |                            |
 | repas     |                                  |                    |                            |
-| 1400-1515 | décision efgh (Claude ; Audrey ; Aurélien; AnneSo) |                    | chaises abcd (Stéphane ; Violaine ; Seb; Fouzia) |
+| 1400-1515 | décision efgh (Claude ; Audrey ; Aurélien; AnneSo) |                    | Règles abcd (Stéphane ; Violaine ; Seb; Fouzia) |
 | 1515-1530 | PAUSE                                |                    |                            |
-| 1530-1645 | suite (Claude ; Audrey ; Aurélien; AnneSo)         |                    | scierie abcd (Stéphane ; Violaine ; Seb; Fouzia) |
+| 1530-1645 | suite (Claude ; Audrey ; Aurélien; AnneSo)         |                    | suite abcd (Stéphane ; Violaine ; Seb; Fouzia) |
 | 1645-1730 | débrief 64                       |                    |                            |
 
 ### Jeudi
@@ -52,7 +52,7 @@ Pour débriefer la demi-journée, répondre aux questions ouvertes et recentrer 
 | 1115-1230 | suite (Aurélien)                                                                                                                                                                                                                                                                           | Forum cd         | OSBD ab               |
 | 1230-1245 | débrief 64                                                                                                                                                                                                                                                                                 |                  |                       |
 | repas     |                                                                                                                                                                                                                                                                                            |                  |                       |
-| 1400-1515 | décision abcd                                                                                                                                                                                                                                                                              |                  | scierie efgh          |
-| 1530-1645 | suite                                                                                                                                                                                                                                                                                      |                  | chaises efgh (AnneSo) |
+| 1400-1515 | décision abcd                                                                                                                                                                                                                                                                              |                  | règles efgh          |
+| 1530-1645 | suite                                                                                                                                                                                                                                                                                      |                  | suite efgh (AnneSo) |
 | 1645-1715 | débrief 64                                                                                                                                                                                                                                                                                 |                  |                       |
 | 1715-1730 | conclusion                                                                                                                                                                                                                                                                                 |                  |                       |

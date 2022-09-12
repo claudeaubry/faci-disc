@@ -14,7 +14,7 @@ B - Plusieurs coéquipiers signalent qu’un des leurs ne fait rien et perturbe 
 3. Je fais un rapport à la direction
 4. Je l’invite à prendre une bière
 
-C - Lors des 2 dernières rétrospectives, l’équipe n’a pas proposé d’amélioration. Vous êtes facilitateur de la procahine rétro, que faites-vous ?
+C - Lors des 2 dernières rétrospectives, l’équipe n’a pas proposé d’amélioration. Vous êtes facilitateur de la prochaine rétro, que faites-vous ?
 1. Vous ne changez rien, tout va bien
 2. Vous changerez de technique la prochaine fois
 3. Vous arrêtez les rétrospectives
