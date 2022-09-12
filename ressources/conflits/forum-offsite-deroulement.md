@@ -31,6 +31,7 @@ _est-ce que comme les groupes sont déterminés à l'avance, je pourrais aller d
 
 ## Le Théâtre Forum qu'est-ce que c'est ?
 
+### Définition
 "Le théâtre forum est une forme de théâtre social et participatif, où une situation qui pose problème est jouée." [Anne, formatrice au TF]
 Une séance se déroule en deux grandes moments.
 Une saynète est jouée (elle peut durée entre 1 minutes et ...).
@@ -43,19 +44,54 @@ On porte une intéraction particulière aux intéractions entre les individus. O
 "Le Théâtre Forum est un outil de transformation sociale" [Augusto Boal]
 Enfin, "le but n'est pas de trouver une solution unique à un problème donné mais d'expérimenter collectivement des possibilités" [Augusto Boal]
 
-## La description de la saynète
+### Les types de Théâtre Forum
 
+- **Théâtre Forum de l'opprimé** : donner à voir une situation d'oppression. Prise de partie pour l'opprimé, contre l'oppresseur. Redonner du pouvoir, proposer des pistes de solutions pour sortir de l'impasse, créer un groupe soutenant, etc.
+
+- **Théâtre Forum du développement relationnel** : travailler les relations entre les personnes, plus accès sur des situations de conflits. Travailler sur l'individu et les relations. Mais il n'y a pas de parti prit.
+
+- **Théâtre Forum de la compléxite** : on cherche a identifier ce que dans le système peut provoquer la situation, on prend du recul et on analyse.
+
+### Comment construire une saynète ?
+
+#### Globalement
+- **Quoi** : Quel est le problème, de quoi on a envie de parler ? pourquoi faire ?
+- **Qui** : Qui est-ce que nous allons convier ? A qui est-ce qu'on s'adresse ?
+- **Pourquoi** : Quels sont les objectifs et les intetions ?
+- **Comment** : Quel format / déroulé ? Quel type d'intervention on souhaite ?
+
+#### Pour le scénario
+
+- quels sont les personnages et leurs relations ?
+- qui est-ce qu'on peut remplacer ou pas ?
+- quel format ? tout en se disant qu'on peut en choisir un ou laisser le public décider
+
+## Saynète
+
+Le Plus Petit Théâtre Forum (PPTF) de Anne Berchon de Cote Act.
 _en cours, à approfondir et sera amenée à évoluer en après chaque séances_
+On va plutôt étudier le Théâtre Forum de la compléxité (car c'est à celui là que Audrey est le plus sensibilisé)
+L'idée est de présenter des saynète dans lesquelles on va tenter d'identifier ce qui ce passe d'un point de vu relationnel mais aussi au niveau supérieur de l'organisation et comment on pourrait agir.
 
-Thématique : Situation de mal être au travail dans des équipes en distanciel.
+### Situation de mal être au travail dans des équipes en distanciel
 
 La scène se passe en visio.
 Deux personnes sont sur scène derrière un écran d'ordinateur.
 Dans la visio en réalité il y a plus de deux personnes, mais pour une question de logistique il y aura seulement 2 personnes représentées.
 
+#### Ce qu'on peut observer
+
+- pratiquo pratique : ça vient de ses problèmes de connexion
+- relationnel :B n'arrive pas à intéragir avec A, ne se sent pas en confiance. A n'est pas assez à l'écoute, et parle peut-être trop vite.
+- systémique : comment gérer le distanciel ? comment être à l'écoute des individus sans avoir d'occasions de se croiser ? comment être à l'écoute pendant les réunions quand on ne voit pas les personnes et ne perçoit pas les malaise, etc.
+
+#### Les personnages
+
 A : La personne qui mène la réunion : plutôt sûre d'elle, affirmée dans sa voix et son propos, elle parle assez fort.
 
 B : une personne participante : plus discrète, ne semble pas très bien, elle n'allume pas sa visio pour montrer son visage. Elle montre des signe de stress et de fatigue.
+
+#### Scénario
 
 A : _lance la réunion, ton assurée et rapide_
 Bonjour, nous sommes ici pour plannifier le sprint de la semaine.
@@ -127,9 +163,7 @@ A: Darn. I don’t understand… What just happened?
 
 B: _B closes his/her laptop and put his/her head in his/her hands_
 
-## Saynètes alternatives
-
-### Alternative 1
+### Stress in a project
 
 A and B are friends and belongs to different teams:
 
@@ -148,7 +182,7 @@ Possible goals:
 - highlight how friendship can defuse emotions with a negative valence, instead
   of propagating the need for change up to the organizational level
 
-### Alternative 2
+### Client comportment problem
 
 A and B belongs to the same team:
 
