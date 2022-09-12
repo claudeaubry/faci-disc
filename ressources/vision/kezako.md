@@ -136,10 +136,12 @@ Les objectifs de la saison 1, définis par l'équipe, comportent 5 impacts clés
 
 ## L'importance de la facilitation
 
-La facilitation contribue à ce que la vision soit vraiment partagée et imprègne la vie de l'équipe.
-C'est pourquoi elle incite le sponsor à formuler sa vision initiale et l'équipe à y répondre en élaborant elle-même sa mission. Le partage de la vision et de la mission pousse à un consensus à travers les échanges. 
+La facilitation contribue à ce que la vision soit vraiment **partagée** et imprègne la vie de l'équipe.
+C'est pourquoi elle incite le sponsor à formuler sa vision initiale et l'équipe à y répondre en élaborant elle-même sa mission. Le partage de la vision et de la mission pousse à un consensus à travers les échanges.
 Cette facilitation nécessite en général deux boucles d'échanges : la première pouvant avoir lieu avant que l'équipe soit complètement constituée, la deuxième inclut toute l'équipe.
 
-Faciliter une vision partagée c'est aussi faire attention à ce que la vision et la mission ne restent pas des objectifs lointains déconnectés de la réalité et finalement oubliés. 
-C'est pourquoi la déclinaison de la mission sur l'horizon de la saison qui vient est le chainon fondamental entre la stratégie et la tactique. 
+Le partage effectif de la vision repose sur un contrat social élaboré avec la charte projet.
+
+Faciliter une vision partagée c'est aussi faire attention à ce que la vision et la mission ne restent pas des objectifs lointains déconnectés de la réalité et finalement oubliés.
+C'est pourquoi la déclinaison de la mission sur l'horizon de la saison qui vient est le chainon fondamental entre la stratégie et la tactique.
 Cela implique que la vision partagée soit re-facilitée régulièrement —toutes les saisons— afin de définir les objectifs de la nouvelle saison et, éventuellement, de revoir la mission, voire la vision.
