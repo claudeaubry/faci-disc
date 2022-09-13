@@ -2,15 +2,13 @@
 
 Le thème Décision inclut 6 parties :
 1. décision kézako : définition, principes, exemples de décision, apport de la facilitation (15')
-2. débat dynamique qui favorise la participation : débat mouvant (45')
+2. débat dynamique qui favorise la participation : débat mouvant (30')
 3. processus de décision collective structurée : décision par consentement (30')
 4. vote avec choix multiples par consentement systémique (25')
 5. advice process (25')
 6. décider qui décide et comment décider (25')
 
-Les parties 2 à 3 sont axées sur la délibération (1h15).
-
-Les parties 4 à 6 sont regroupées (1h15).
+Les parties 2 à 3 sont axées sur la délibération. La pause se place à la fin de la partie 3.
 
 > **Warning**
 > Il est préférable de les dérouler dans l'ordre.
@@ -54,7 +52,7 @@ Voici le déroulement (copié du site http://ebook.coop-tic.eu/francais/wakka.ph
 - Quand l'animateur le choisit, il clôt le débat et poursuit son histoire jusqu'à la prochaine affirmation ou situation polémique de l'histoire et le débat reprend.
 
 > **Warning**
-> La durée est limités à 45' pour l'offsite
+> La durée est limités à 30' pour l'offsite
 
 Cet atelier reçoit les 32 participants en un seul groupe.
 Des exemples de sujets à décision :
@@ -63,7 +61,7 @@ Des exemples de sujets à décision :
 - Votre entreprise dont les locaux sont à Paris envisage de déménager à Romainville.
 
 > **Note**
-> À adapter au contexte Discngine. L'idéal est d'avoir une histoire avec 3 ou 4 questions. Comme on ne sait pas si le débat va prendre, le nombre de tours peut varier de 2 à 4 en 45'.
+> À adapter au contexte Discngine. L'idéal est d'avoir une histoire avec 3 ou 4 questions. Comme on ne sait pas si le débat va prendre, le nombre de tours peut varier de 2 à 4.
 
 > **Warning**
 > Le débat mouvant est un moment de délibération qui n'inclut pas de prise de décision (ce n'est pas la majorité qui gagne). Il doit être complété par une règle d'arrêt, par exemple une forme de vote, pour finaliser la décision.
