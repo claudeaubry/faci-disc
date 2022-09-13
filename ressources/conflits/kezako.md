@@ -31,9 +31,14 @@ title: Les conflits
   
 ## Rôle de la facilitation pour traiter des conflits
 
-En situation de conflit, le facilitateur doit rester neutre et ne pas y prendre prendre. Il est là pour dépassionner le débat et le rendre factuel, en utilisant différents "outils" qui lui semble adapté à la situation.
-
 Il encourage le conflit constructif, source d'opposition d'idées, de coconstruction à base d'écoute et de respects.
+
+En amont, la facilitation peut par exemple aider à prévenir les conflits. Par exemple, en fixant les valeurs cela peut diminuer mes attentes. Dans le contexte de cet offsite je peux être plus détendu si on ne fait pas de compost. Je baisse ou remonte mes attentes en fonction des valeurs.
+
+En aval, la facilitation peut aider une personne à trouver des solutions. Par exemple, en lui proposant de changer d'angle au lieu de focaliser sur les problèmes on explore d'autre point de vue en focalisant sur les solutions.
+
+"quand on tombe dans une fosse à purin, on ne se demande pas pourquoi on est tombé dedans"
+
 
 ## Exemples d'ateliers
 
@@ -51,9 +56,9 @@ L'idée est de ne pas focaliser sur les problèmes mais plus sur les solutions
 ### Post Mortem
 Analyse de comment un problème/conflit est apparu. Une sorte de rétro orientée échec (séparation avec une personne, arrêt d'un projet, etc.)
 
-<!--#### Le genre et la parole au travail
+#### Le genre et la parole au travail
 Tiré des brave spaces, un format qui propose non pas d’évincer l’inconfort, mais de s’asseoir avec, voire de l’utiliser. Pour mieux le comprendre.
-Brian Arao et Kristi Clemens : From Safe Spaces to Brave Spaces : A New Way to Frame Dialogue around Diversity and Social Justice.-->
+Brian Arao et Kristi Clemens : From Safe Spaces to Brave Spaces : A New Way to Frame Dialogue around Diversity and Social Justice.
 
 ### Le Théâtre Forum
 Le Théâtre Forum a été introduit par Augusto Boal pendant la dictature des années 1950/1960 au Brésil. L'une des premières formes, le _théâtre thérapeutique_ étaient le Théâtre de l'opprimé où l'on travaillais sur des relations en Oppresseurs et Opprimés et de faire explorer aux personnes opprimées des pistes. Dans une second temps, il utilisa le théâtre forum dans une forme _legislative_. Alors qu'il était élu dans l'état de Rio de Janeiro il utilisé cet outil pour permettre aux citoyens de transformé des problèmes concrets en propositions de lois qui porterait par la suite.
