@@ -13,6 +13,7 @@ facilitateurices : au moins une et peut-être 2
 
 4. **Présentation de la saynète à jouer, recrutements d'acteurices et mise en place (10')**
    4 bis. pour celleux qui ne jouent pas, on peut faire des jeux autour de l'image : une personne donne un mot et ils doivent donner la représentation en images => montre comment un mot peut être interpréter / représenter d'une multitudes de manières.
+   Quelques Q/R
 5. **Action ! Saynète (5')**
    a. le joker demandent au personnages de se présenter (ils jouent)
    b. la scène se déroule
@@ -40,9 +41,9 @@ Lors de ce second temps, les personnes spectatrices vont pouvoir participer pour
 
 L'idée est de vivre une problématique d'une manière globale : avec son corps, ses émotions et ses modes de réflexion.
 
-On porte une intéraction particulière aux intéractions entre les individus. On vit et donne à voir. On parle d'approche systèmique où lorsqu'un personnage change c'est le système qui est modifié.
+On porte une attention particulière aux intéractions entre les individus. On vit et donne à voir. On parle **d'approche systèmique** où lorsqu'un personnage change c'est le système qui est modifié.
 "Le Théâtre Forum est un outil de transformation sociale" [Augusto Boal]
-Enfin, "le but n'est pas de trouver une solution unique à un problème donné mais d'expérimenter collectivement des possibilités" [Augusto Boal]
+Enfin, "**le but n'est pas de trouver une solution unique à un problème donné mais d'expérimenter collectivement des possibilités**" [Augusto Boal]
 
 ### Les types de Théâtre Forum
 
@@ -55,6 +56,7 @@ Enfin, "le but n'est pas de trouver une solution unique à un problème donné m
 ### Comment construire une saynète ?
 
 #### Globalement
+
 - **Quoi** : Quel est le problème, de quoi on a envie de parler ? pourquoi faire ?
 - **Qui** : Qui est-ce que nous allons convier ? A qui est-ce qu'on s'adresse ?
 - **Pourquoi** : Quels sont les objectifs et les intetions ?
