@@ -11,12 +11,24 @@ En deux temps :
 - Welcome et introduction de l'Offsite par Éric ou Sébastien (5')
 - Présentation de l'équipe des facilitateurs (10')
 - présentation des thèmes et du planning (5')
-- Icebreaker ?
 - repartition des équipes (5')
 
 **Mercredi matin**
-- Icebreaker (20')
-- Accordage sur la définition de la facilitation + distribution de fiches (définition + mini guide d'intro à la facilitation graphique) + questions (25')
+- Icebreaker (15') : 
+    - Départ en cercle. Tout le monde se met à marcher.
+    - 3 duos de consignes :
+        - go/stop
+        - left/right
+        - hand up/foot up
+Au bout de 5 minutes, inversion des consignes
+Au bout de 5 minutes, toutes les personnes se place par ordre d'ancienneté au sein de Discngine en se parlant
+- Facilitation Kézako (25') :
+    - 7 (si Fabrice est absent) ou 8 groupes aléatoires de 7/8 personnes devant un paperboard + 1 personne animatrice par groupe. 
+    - réflexion de groupe pour remplir le canevas
+    - au bout de 10 minutes, la moitié du groupe rejoint le groupe à sa droite, le facilitateur rejoint le groupe à sa gauche pour continuer à réflechir
+    - au bout de 10 minutes, tout le monde prend 5 minutes pour regarder ce le travail des autres. 
+    - les fiches seront accrochées dans une salle et les personnes pourront les modifier/compléter à loisir pendant les deux jours, au fil des ateliers.
+- Feu d'artifice tous ensemble avant que chaque groupe avant de partir rejondre l'atelier de la matinée
 
 
 ## Les équipes
