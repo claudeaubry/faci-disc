@@ -5,40 +5,47 @@ title: Les conflits
 # Comment la facilitation peut aider dans la gestion des conflits à Discngine ?
 
 ## Définition - qu'est-ce qu'un conflit ?
-- différend opposant une ou plusieurs personnes
-- agressivité qui ne trouve pas le destin par sublimation
-- opposition ou désaccord se produisant lorsque des éléments, des forces antagonistes entrent en contact et cherchent à s'évincer réciproquement
-
+- différend entre des personnes se produisant lorsque des forces antagonistes cherchent à s'évincer réciproquement
 
 ## Les types de conflits :
-- conflit explicite, déjà déclaré avec intervention type pompier
-- conflit type larvé où il va falloir creuser pour le faire apparaître
-- conflit type fruit, ni trop tôt ni trop tard, trouver le bon moment pour le gérer
 
-- conflit de groupes
-- conflit de personnes
-- conflit entre une personne et un groupe
+## Entre qui ?
+- inter-personnel
+- une personne et un groupe
+- entre groupes
 
-- conflit dans discngine
-- conflit avec les parties prenantes
+## Avec qui ?
+- un collègue
+- un ami
+- un supérieur
+- un homme, une femme
+- un client
+
+## Où ?
+- au sein de l'entreprise
+- chez un client
+
+# Quel type ?
+- explicite déjà déclaré
+- récurent connu et non résolu
+- invisible
 
 ## Des causes possibles en entreprise
-- pas de commun dans la vision
-- pas d'objectif clairement défini
+- vision non accordée
+- pas d'objectif commun
 - problème de communication
-- stabilité des équipes (nécessaire à leur performance : structure stability)
-- embarquement 
+- stabilité des équipes
+- embarquement baclé
   
 ## Rôle de la facilitation pour traiter des conflits
 
-Il encourage le conflit constructif, source d'opposition d'idées, de coconstruction à base d'écoute et de respects.
+En amont, la facilitation peut aider à prévenir les conflits. Par exemple, en fixant les valeurs cela peut diminuer mes attentes. Dans le contexte de cet offsite je peux être plus détendu si on ne fait pas de compost. Je baisse ou remonte mes attentes en fonction des valeurs.
 
-En amont, la facilitation peut par exemple aider à prévenir les conflits. Par exemple, en fixant les valeurs cela peut diminuer mes attentes. Dans le contexte de cet offsite je peux être plus détendu si on ne fait pas de compost. Je baisse ou remonte mes attentes en fonction des valeurs.
-
-En aval, la facilitation peut aider une personne à trouver des solutions. Par exemple, en lui proposant de changer d'angle au lieu de focaliser sur les problèmes on explore d'autre point de vue en focalisant sur les solutions.
+En aval, la facilitation peut aider une personne à trouver des solutions. Par exemple, en lui proposant de changer d'angle au lieu de focaliser sur les problèmes on explore d'autre point de vue comme focaliser sur les solutions.
 
 "quand on tombe dans une fosse à purin, on ne se demande pas pourquoi on est tombé dedans"
 
+Il encourage le conflit constructif, source d'opposition d'idées, de coconstruction à base d'écoute et de respects.
 
 ## Exemples d'ateliers
 

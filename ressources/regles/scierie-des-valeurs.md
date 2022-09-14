@@ -64,4 +64,6 @@ Cet atelier permet à l'équipe de s'accorder finement sur un jeu de valeurs qui
     - on définit une phrase pour illustrer chaque valeur
     - on essaye de trouver des pratiques, des principes
 
+## Et maintenant les règles ;)
 
+- simpli
