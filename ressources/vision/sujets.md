@@ -15,58 +15,12 @@ Emma qui est sponsor souhaite que Peetic devienne la plateforme de référence p
 
 ### Un peu de solution
 
-Nous avons déjà des fiches de caractéristiques des chiens et des chats.
-Nous allons offrir une interface aux refuges pour qu'ils décrivent leurs animaux.
+Nous avons déjà des fiches de caractéristiques des chiens et des chats. Nous allons offrir une interface aux refuges pour qu'ils décrivent leurs animaux.
 Nous ajouterons la fonctionnalité adoption en permettant aux familles d'accueil de rentrer en contact avec les refuges et de dérouler le processus jusqu'à l'adoption.
-Clara a incité l'équipe à s'assurer d'une adoption responsable, incluant stérilisation de l'animal et implication de la famille d'accueil.
 
 ### Les rôles pour l'atelier
-#### Isa  
-  vétérinaire
-
-- vaccins
-- stérilisation
-
-#### Lou  
-  club utilisateurs
-
-- focus group
-- nourriture
-
-#### Emma  
-  sponsor
-
-- associations de défense des animaux
-- contact avec les refuges
-
-#### Karine
-
-- Directrice de Refuge
-
-#### Clara  
-  Développeuse
-
-- bien-être animal
-
-#### Greg & Valérie  
-  Famille d’accueil
-
-- 2 enfants
-- une maison
-
-#### Paul  
-  Product Owner
-
-- connait Peetic
-
-#### Gary  
-  commercial
-
-- comportement des propriétaires d’animaux
-- événements canins et félins
-
-#### Alan  
-  expert Infra
-
-- plateforme technique
-- cartographie
+- Emma, sponsor
+- Karine Directrice de Refuge. Karine souhaite que les animaux restent moins longtemps dans son refuge (actuellement un mois et demi)
+- Clara Développeuse. Soucieuse du bien-être animal, Clara incite l'équipe à s'assurer d'une adoption responsable, incluant stérilisation de l'animal et implication de la famille d'accueil.
+- Paul Product Owner. Paul propose qu’on se consacre d’abord aux chats, qui représentent la grande majorité des animaux dans les refuges.
+- Greg & Valérie, Louis et Valentine famille d’accueil
